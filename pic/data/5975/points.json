@@ -1,0 +1,124 @@
+{
+  "points": [
+    {
+      "id": "5975-1",
+      "name": "ドコモショップ荻窪店",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7051667,
+        139.6226631
+      ]
+    },
+    {
+      "id": "5975-2",
+      "name": "春木屋 荻窪本店",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.705142,
+        139.622393
+      ]
+    },
+    {
+      "id": "5975-3",
+      "name": "TOP1荻窪店",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-3.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7054832,
+        139.6201115
+      ]
+    },
+    {
+      "id": "5975-4",
+      "name": "友美堂",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-4.jpg",
+      "ep": "ED",
+      "geo": [
+        35.705132,
+        139.6232486
+      ]
+    },
+    {
+      "id": "5975-5",
+      "name": "ラ・コピエ荻窪付近",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-5.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7039276,
+        139.6249717
+      ]
+    },
+    {
+      "id": "5975-6",
+      "name": "コインランドリーサンライズ",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-6.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7108808,
+        139.614865
+      ]
+    },
+    {
+      "id": "5975-7",
+      "name": "コインパーク ラトラーム荻窪",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-7.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7064365,
+        139.6229385
+      ]
+    },
+    {
+      "id": "5975-8",
+      "name": "ソフマップ AKIBA アミューズメント館",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.6988793,
+        139.7712326
+      ]
+    },
+    {
+      "id": "5975-9",
+      "name": "マルツ秋葉原営業所（秋葉原本店）",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.70087,
+        139.77084
+      ]
+    },
+    {
+      "id": "5975-10",
+      "name": "薬 マツモトキヨシ アキバ店",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-10.jpg",
+      "ep": "5",
+      "geo": [
+        35.69851,
+        139.77123
+      ]
+    },
+    {
+      "id": "5975-11",
+      "name": "ビックカメラ AKIBA",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-11.jpg",
+      "ep": "6",
+      "geo": [
+        35.69959,
+        139.77136
+      ]
+    },
+    {
+      "id": "5975-12",
+      "name": "炉ばた 石くら 居酒屋 秋葉原",
+      "image": "https://image.xinu.ink/pic/data/5975/images/5975-12.jpg",
+      "ep": "6",
+      "geo": [
+        35.69994,
+        139.77038
+      ]
+    }
+  ]
+}

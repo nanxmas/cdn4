@@ -1,0 +1,104 @@
+{
+  "points": [
+    {
+      "id": "5986-1",
+      "name": "文林堂書店",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-1.jpg",
+      "ep": "",
+      "geo": [
+        39.29135,
+        139.96314
+      ]
+    },
+    {
+      "id": "5986-2",
+      "name": "城南信用金庫 九段支店",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-2.jpg",
+      "ep": "",
+      "geo": [
+        35.69579,
+        139.75539
+      ]
+    },
+    {
+      "id": "5986-3",
+      "name": "㈱集英社 神保町3丁目ビル",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-3.jpg",
+      "ep": "",
+      "geo": [
+        35.69535,
+        139.75541
+      ]
+    },
+    {
+      "id": "5986-4",
+      "name": "セブン-イレブン にかほ平沢店",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-4.jpg",
+      "ep": "",
+      "geo": [
+        39.2844,
+        139.96974
+      ]
+    },
+    {
+      "id": "5986-5",
+      "name": "目利きの銀次 山形駅前店",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-5.jpg",
+      "ep": "",
+      "geo": [
+        38.24804,
+        140.32837
+      ]
+    },
+    {
+      "id": "5986-6",
+      "name": "フォーラム山形",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-6.jpg",
+      "ep": "",
+      "geo": [
+        38.24832,
+        140.33225
+      ]
+    },
+    {
+      "id": "5986-7",
+      "name": "LOGIC",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-7.jpg",
+      "ep": "",
+      "geo": [
+        38.24706,
+        140.33138
+      ]
+    },
+    {
+      "id": "5986-8",
+      "name": "MILANO",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-8.jpg",
+      "ep": "",
+      "geo": [
+        38.24773,
+        140.329
+      ]
+    },
+    {
+      "id": "5986-9",
+      "name": "新小滝発電所付近",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-9.jpg",
+      "ep": "",
+      "geo": [
+        39.18587,
+        139.91019
+      ]
+    },
+    {
+      "id": "5986-10",
+      "name": "東北芸術工科大学",
+      "image": "https://image.xinu.ink/pic/data/5986/images/5986-10.jpg",
+      "ep": "",
+      "geo": [
+        38.21889,
+        140.34486
+      ]
+    }
+  ]
+}

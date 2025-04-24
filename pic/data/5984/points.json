@@ -1,0 +1,74 @@
+{
+  "points": [
+    {
+      "id": "5984-1",
+      "name": "Gongendo Tsutsumi",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-1.jpg",
+      "ep": "4",
+      "geo": [
+        36.09314,
+        139.72247
+      ]
+    },
+    {
+      "id": "5984-2",
+      "name": "流星堂",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-2.jpg",
+      "ep": "4",
+      "geo": [
+        36.07462,
+        139.71674
+      ]
+    },
+    {
+      "id": "5984-3",
+      "name": "満福寺",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-3.jpg",
+      "ep": "4",
+      "geo": [
+        36.07694,
+        139.71735
+      ]
+    },
+    {
+      "id": "5984-4",
+      "name": "オーロール東城屋",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-4.jpg",
+      "ep": "4",
+      "geo": [
+        36.07403,
+        139.71867
+      ]
+    },
+    {
+      "id": "5984-5",
+      "name": "円藤内児童公園",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-5.jpg",
+      "ep": "4",
+      "geo": [
+        36.08917,
+        139.71348
+      ]
+    },
+    {
+      "id": "5984-6",
+      "name": "幸宮神社",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-6.jpg",
+      "ep": "4",
+      "geo": [
+        36.07866,
+        139.71871
+      ]
+    },
+    {
+      "id": "5984-7",
+      "name": "天満宮付近",
+      "image": "https://image.xinu.ink/pic/data/5984/images/5984-7.jpg",
+      "ep": "4",
+      "geo": [
+        36.08489,
+        139.71624
+      ]
+    }
+  ]
+}
