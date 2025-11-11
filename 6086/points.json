@@ -1,0 +1,36 @@
+[
+  {
+    "id": "3b0e5jh",
+    "name": "古濑户咖啡店",
+    "image": "https://image.xinu.ink/pic/data/6086/images/3b0e5jh_1754206614808.jpg",
+    "geo": [
+      35.6961,
+      139.7614
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3vab05f",
+    "name": "麻布十番",
+    "image": "https://image.xinu.ink/pic/data/6086/images/3vab05f_1755432504676.jpg",
+    "geo": [
+      35.6551,
+      139.7353
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4pi81oi",
+    "name": "CANAL CAFE",
+    "image": "https://image.xinu.ink/pic/data/6086/images/4pi81oi-1757259811125.jpg",
+    "ep": "10",
+    "geo": [
+      35.7001,
+      139.7426
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]
