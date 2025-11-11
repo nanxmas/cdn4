@@ -1,0 +1,84 @@
+{
+  "points": [
+    {
+      "id": "5904-1",
+      "name": "笠松みなと公園",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36723,
+        136.76449
+      ]
+    },
+    {
+      "id": "5904-2",
+      "name": "笠松競馬場第二駐車場",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36827,
+        136.76633
+      ]
+    },
+    {
+      "id": "5904-3",
+      "name": "金華山展望台",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.43244,
+        136.78064
+      ]
+    },
+    {
+      "id": "5904-4",
+      "name": "笠松競馬場",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.37288,
+        136.76658
+      ]
+    },
+    {
+      "id": "5904-5",
+      "name": "笠松町サイクリングロード",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.36972,
+        136.76714
+      ]
+    },
+    {
+      "id": "5904-6",
+      "name": "笠松駅",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.37393,
+        136.7637
+      ]
+    },
+    {
+      "id": "5904-7",
+      "name": "福證寺",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.36607,
+        136.7647
+      ]
+    },
+    {
+      "id": "5904-8",
+      "name": "岐阜工業高校前",
+      "image": "https://image.xinu.ink/pic/data/5904/images/5904-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.37489,
+        136.76151
+      ]
+    }
+  ]
+}
