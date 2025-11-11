@@ -1,0 +1,147 @@
+name: CDN4 同步 (ID 5259+)
+
+on:
+  schedule:
+    # 每天北京时间中午12点运行 (UTC时间4点)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync-cdn4:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出CDN4仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: 配置Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 增加缓冲区大小，避免大文件推送失败
+          git config http.postBuffer 524288000
+          git config http.version HTTP/1.1
+      
+      - name: 克隆源仓库
+        run: |
+          echo "克隆源仓库..."
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/Sukiing-make-org/MYLAND66.github.io.git /tmp/source
+          cd /tmp/source
+          git sparse-checkout set pic/data
+          echo "✅ 源仓库克隆完成"
+      
+      - name: 同步动漫数据 (ID 5259+)
+        run: |
+          echo "=========================================="
+          echo "开始同步 CDN4 数据 (动漫ID 5259+)"
+          echo "=========================================="
+          
+          SOURCE_DIR="/tmp/source/pic/data"
+          BATCH_SIZE=50  # 每批处理50个ID
+          COMMIT_COUNT=0
+          
+          # 遍历ID 5259-9999，分批提交
+          for id in $(seq 5259 9999); do
+            if [ -d "$SOURCE_DIR/$id" ]; then
+              echo "📦 处理动漫ID: $id"
+              
+              # 检查源目录中是否有文件
+              if [ "$(ls -A $SOURCE_DIR/$id 2>/dev/null)" ]; then
+                # 创建目标目录
+                mkdir -p "$id"
+                
+                # 使用rsync同步整个目录
+                rsync -av --delete "$SOURCE_DIR/$id/" "$id/"
+                
+                # 检查是否有变化
+                if git status --porcelain | grep -q "^"; then
+                  echo "  ✓ ID $id 已更新"
+                  COMMIT_COUNT=$((COMMIT_COUNT + 1))
+                  
+                  # 每处理BATCH_SIZE个有变化的ID就提交一次
+                  if [ $((COMMIT_COUNT % BATCH_SIZE)) -eq 0 ]; then
+                    echo "=========================================="
+                    echo "📤 提交批次 (已处理 $COMMIT_COUNT 个更新)"
+                    git add .
+                    if ! git diff --cached --quiet; then
+                      git commit -m "自动同步: 批量更新动漫数据 (进度: ID $id) - $(date +'%Y-%m-%d %H:%M:%S')"
+                      
+                      # 推送并重试机制
+                      MAX_RETRIES=3
+                      RETRY_COUNT=0
+                      while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+                        if git push; then
+                          echo "✅ 批次推送成功"
+                          break
+                        else
+                          RETRY_COUNT=$((RETRY_COUNT + 1))
+                          if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                            echo "⚠️ 推送失败，等待 10 秒后重试 ($RETRY_COUNT/$MAX_RETRIES)..."
+                            sleep 10
+                          else
+                            echo "❌ 推送失败，已达最大重试次数"
+                            exit 1
+                          fi
+                        fi
+                      done
+                    fi
+                    echo "=========================================="
+                  fi
+                else
+                  echo "  → ID $id 无变化"
+                fi
+              else
+                echo "  ✗ ID $id 目录为空，跳过"
+              fi
+            fi
+          done
+          
+          echo "=========================================="
+          
+          # 提交剩余的变更
+          if git status --porcelain | grep -q "^"; then
+            echo "📤 提交最后一批更新..."
+            git add .
+            if ! git diff --cached --quiet; then
+              git commit -m "自动同步: 完成动漫数据更新 (ID 5259+) - $(date +'%Y-%m-%d %H:%M:%S')"
+              
+              # 推送并重试
+              MAX_RETRIES=3
+              RETRY_COUNT=0
+              while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+                if git push; then
+                  echo "✅ 最终推送成功"
+                  break
+                else
+                  RETRY_COUNT=$((RETRY_COUNT + 1))
+                  if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                    echo "⚠️ 推送失败，等待 10 秒后重试 ($RETRY_COUNT/$MAX_RETRIES)..."
+                    sleep 10
+                  else
+                    echo "❌ 推送失败，已达最大重试次数"
+                    exit 1
+                  fi
+                fi
+              done
+            fi
+          else
+            echo "ℹ️ 没有检测到更新"
+          fi
+      
+      - name: 清理
+        if: always()
+        run: |
+          rm -rf /tmp/source
+          echo "✅ 临时文件已清理"
+      
+      - name: 同步结果
+        if: always()
+        run: |
+          echo "=========================================="
+          echo "CDN4 同步任务完成"
+          echo "覆盖范围: 动漫ID 5259+"
+          echo "执行时间: $(date +'%Y-%m-%d %H:%M:%S')"
+          echo "=========================================="
