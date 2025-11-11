@@ -1,0 +1,144 @@
+{
+  "points": [
+    {
+      "id": "6048-1",
+      "name": "姨捨駅",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-1.jpg",
+      "ep": "1",
+      "geo": [
+        36.50263,
+        138.09348
+      ]
+    },
+    {
+      "id": "6048-2",
+      "name": "姨捨駅",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-2.jpg",
+      "ep": "1",
+      "geo": [
+        36.50252,
+        138.09326
+      ]
+    },
+    {
+      "id": "6048-3",
+      "name": "姨捨棚田駐車場",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-3.jpg",
+      "ep": "1",
+      "geo": [
+        36.49996,
+        138.09739
+      ]
+    },
+    {
+      "id": "6048-4",
+      "name": "うな竹",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-4.jpg",
+      "ep": "1",
+      "geo": [
+        36.48062,
+        138.14266
+      ]
+    },
+    {
+      "id": "6048-5",
+      "name": "おやき七福本店",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-5.jpg",
+      "ep": "1",
+      "geo": [
+        36.48094,
+        138.14034
+      ]
+    },
+    {
+      "id": "6048-6",
+      "name": "アピナボウル長野篠ノ井店",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-6.jpg",
+      "ep": "1",
+      "geo": [
+        36.57346,
+        138.14328
+      ]
+    },
+    {
+      "id": "6048-7",
+      "name": "武水別神社",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-7.jpg",
+      "ep": "OP",
+      "geo": [
+        36.5174,
+        138.10281
+      ]
+    },
+    {
+      "id": "6048-8",
+      "name": "大正橋",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-8.jpg",
+      "ep": "OP",
+      "geo": [
+        36.48805,
+        138.14627
+      ]
+    },
+    {
+      "id": "6048-9",
+      "name": "武水別神社",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-9.jpg",
+      "ep": "OP",
+      "geo": [
+        36.51935,
+        138.10293
+      ]
+    },
+    {
+      "id": "6048-10",
+      "name": "石井瓦工業㈱",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-10.jpg",
+      "ep": "ED",
+      "geo": [
+        36.50368,
+        138.12847
+      ]
+    },
+    {
+      "id": "6048-11",
+      "name": "上山田中央公園",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-11.jpg",
+      "ep": "ED",
+      "geo": [
+        36.47907,
+        138.14244
+      ]
+    },
+    {
+      "id": "6048-12",
+      "name": "セブン-イレブン 戸倉内川店",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-12.jpg",
+      "ep": "ED",
+      "geo": [
+        36.50679,
+        138.13529
+      ]
+    },
+    {
+      "id": "6048-13",
+      "name": "戸倉千曲川緑地公園",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-13.jpg",
+      "ep": "ED",
+      "geo": [
+        36.48129,
+        138.14455
+      ]
+    },
+    {
+      "id": "6048-14",
+      "name": "姨捨の棚田",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-14.jpg",
+      "ep": "ED",
+      "geo": [
+        36.50327,
+        138.0983
+      ]
+    }
+  ]
+}
