@@ -1,0 +1,27 @@
+[
+  {
+    "id": "upr9o71d3",
+    "name": "成城学园前",
+    "image": "https://image.xinu.ink/pic/data/6003/images/upr9o71d3-1744795099957.jpg",
+    "ep": 2,
+    "s": 789,
+    "geo": [
+      35.6397,
+      139.5994
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "21p2iqf",
+    "cn": "北京大兴国际机场",
+    "name": "北京大兴国际机场",
+    "image": "https://image.xinu.ink/pic/data/6003/images/21p2iqf-1751466704254.jpg",
+    "ep": 10,
+    "s": 290,
+    "geo": [
+      39.5087,
+      116.4163
+    ]
+  }
+]

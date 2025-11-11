@@ -1,0 +1,224 @@
+{
+  "points": [
+    {
+      "id": "5982-1",
+      "name": "学習院下",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.71549,
+        139.71211
+      ]
+    },
+    {
+      "id": "5982-2",
+      "name": "のぞき坂",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.71763,
+        139.7139
+      ]
+    },
+    {
+      "id": "5982-3",
+      "name": "曙橋",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.71393,
+        139.71329
+      ]
+    },
+    {
+      "id": "5982-4",
+      "name": "コメダ珈琲店 保谷店",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.73202,
+        139.56348
+      ]
+    },
+    {
+      "id": "5982-5",
+      "name": "旭川市旭山動物園",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-5.jpg",
+      "ep": "3",
+      "geo": [
+        43.76861,
+        142.47872
+      ]
+    },
+    {
+      "id": "5982-6",
+      "name": "富士見坂",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.71619,
+        139.71739
+      ]
+    },
+    {
+      "id": "5982-7",
+      "name": "三井アウトレットパーク 入間",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-7.jpg",
+      "ep": "5",
+      "geo": [
+        35.8103,
+        139.37966
+      ]
+    },
+    {
+      "id": "5982-8",
+      "name": "ガスト 和光市駅前店",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-8.jpg",
+      "ep": "6",
+      "geo": [
+        35.788,
+        139.6128
+      ]
+    },
+    {
+      "id": "5982-9",
+      "name": "和光市駅南口",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-9.jpg",
+      "ep": "6",
+      "geo": [
+        35.78781,
+        139.6135
+      ]
+    },
+    {
+      "id": "5982-10",
+      "name": "Wakōshi Station",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-10.jpg",
+      "ep": "6",
+      "geo": [
+        35.7882,
+        139.61211
+      ]
+    },
+    {
+      "id": "5982-11",
+      "name": "せせらぎ公園",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-11.jpg",
+      "ep": "6",
+      "geo": [
+        35.78684,
+        139.61585
+      ]
+    },
+    {
+      "id": "5982-12",
+      "name": "東横INN和光市駅前",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-12.jpg",
+      "ep": "6",
+      "geo": [
+        35.78722,
+        139.61303
+      ]
+    },
+    {
+      "id": "5982-13",
+      "name": "旧古河邸 大谷美術館",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-13.jpg",
+      "ep": "7",
+      "geo": [
+        35.74305,
+        139.74595
+      ]
+    },
+    {
+      "id": "5982-14",
+      "name": "チビッコ公園",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-14.jpg",
+      "ep": "7",
+      "geo": [
+        35.7872,
+        139.61455
+      ]
+    },
+    {
+      "id": "5982-15",
+      "name": "やぐら橋",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-15.jpg",
+      "ep": "8",
+      "geo": [
+        35.63116,
+        139.79295
+      ]
+    },
+    {
+      "id": "5982-16",
+      "name": "国際展示場駅",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-16.jpg",
+      "ep": "8",
+      "geo": [
+        35.63427,
+        139.79169
+      ]
+    },
+    {
+      "id": "5982-17",
+      "name": "東京ビッグサイト東6ホール",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-17.jpg",
+      "ep": "8",
+      "geo": [
+        35.63327,
+        139.79799
+      ]
+    },
+    {
+      "id": "5982-18",
+      "name": "東京ビッグサイト東5ホール",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-18.jpg",
+      "ep": "8",
+      "geo": [
+        35.63281,
+        139.79708
+      ]
+    },
+    {
+      "id": "5982-19",
+      "name": "東京ビッグサイト東4ホール",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-19.jpg",
+      "ep": "8",
+      "geo": [
+        35.63222,
+        139.7955
+      ]
+    },
+    {
+      "id": "5982-20",
+      "name": "MOGRA",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-20.jpg",
+      "ep": "12",
+      "geo": [
+        35.70202,
+        139.7751
+      ]
+    },
+    {
+      "id": "5982-21",
+      "name": "セブン-イレブン 秋葉原駅北店",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-21.jpg",
+      "ep": "12",
+      "geo": [
+        35.69942,
+        139.77418
+      ]
+    },
+    {
+      "id": "5982-22",
+      "name": "ローソン JEBL秋葉原スクエア店",
+      "image": "https://image.xinu.ink/pic/data/5982/images/5982-22.jpg",
+      "ep": "12",
+      "geo": [
+        35.70139,
+        139.77454
+      ]
+    }
+  ]
+}

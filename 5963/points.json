@@ -1,0 +1,154 @@
+{
+  "points": [
+    {
+      "id": "5963-1",
+      "name": "White Oakパーキング付近",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.69941,
+        139.58174
+      ]
+    },
+    {
+      "id": "5963-2",
+      "name": "米川動物病院",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-2.jpg",
+      "ep": "2",
+      "geo": [
+        35.69687,
+        139.62409
+      ]
+    },
+    {
+      "id": "5963-3",
+      "name": "荻窪タウンセブン",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-3.jpg",
+      "ep": "3",
+      "geo": [
+        35.7054,
+        139.61976
+      ]
+    },
+    {
+      "id": "5963-4",
+      "name": "イエイエ",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-4.jpg",
+      "ep": "3",
+      "geo": [
+        35.7037,
+        139.6161
+      ]
+    },
+    {
+      "id": "5963-5",
+      "name": "善福寺川緑地",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-5.jpg",
+      "ep": "3",
+      "geo": [
+        35.69055,
+        139.63287
+      ]
+    },
+    {
+      "id": "5963-6",
+      "name": "スターバックスコーヒー ルミネ荻窪店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-6.jpg",
+      "ep": "7",
+      "geo": [
+        35.70476,
+        139.61923
+      ]
+    },
+    {
+      "id": "5963-7",
+      "name": "ファミリーマート 荻窪駅北店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-7.jpg",
+      "ep": "7",
+      "geo": [
+        35.70527,
+        139.62018
+      ]
+    },
+    {
+      "id": "5963-8",
+      "name": "ココカラファイン薬局 荻窪天沼店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-8.jpg",
+      "ep": "7",
+      "geo": [
+        35.70551,
+        139.62025
+      ]
+    },
+    {
+      "id": "5963-9",
+      "name": "春木屋 荻窪本店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-9.jpg",
+      "ep": "8",
+      "geo": [
+        35.7051,
+        139.6224
+      ]
+    },
+    {
+      "id": "5963-10",
+      "name": "セブン-イレブン 杉並阿佐谷南１丁目店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-10.jpg",
+      "ep": "10",
+      "geo": [
+        35.70358,
+        139.6369
+      ]
+    },
+    {
+      "id": "5963-11",
+      "name": "ティーマーケット ジークレフ 阿佐ヶ谷店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-11.jpg",
+      "ep": "10",
+      "geo": [
+        35.70179,
+        139.63663
+      ]
+    },
+    {
+      "id": "5963-12",
+      "name": "らんふぁ",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-12.jpg",
+      "ep": "10",
+      "geo": [
+        35.69978,
+        139.63754
+      ]
+    },
+    {
+      "id": "5963-13",
+      "name": "オオゼキ菊川店",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-13.jpg",
+      "ep": "11",
+      "geo": [
+        35.68898,
+        139.80828
+      ]
+    },
+    {
+      "id": "5963-14",
+      "name": "荻窪八幡神社",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-14.jpg",
+      "ep": "11",
+      "geo": [
+        35.71059,
+        139.60679
+      ]
+    },
+    {
+      "id": "5963-15",
+      "name": "ヨドバシカメラ マルチメディア 吉祥寺",
+      "image": "https://image.xinu.ink/pic/data/5963/images/5963-15.jpg",
+      "ep": "12",
+      "geo": [
+        35.70476,
+        139.58135
+      ]
+    }
+  ]
+}

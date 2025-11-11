@@ -1,0 +1,174 @@
+{
+  "points": [
+    {
+      "id": "5985-1",
+      "name": "めぐみ幼稚園",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.62041,
+        140.06687
+      ]
+    },
+    {
+      "id": "5985-2",
+      "name": "稲毛高校（バス）",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.6207,
+        140.06932
+      ]
+    },
+    {
+      "id": "5985-3",
+      "name": "稲毛高校前",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-3.jpg",
+      "ep": "2",
+      "geo": [
+        35.62039,
+        140.06972
+      ]
+    },
+    {
+      "id": "5985-4",
+      "name": "イオン マリンピアショッピングセンター 本館",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-4.jpg",
+      "ep": "5",
+      "geo": [
+        35.6291,
+        140.07328
+      ]
+    },
+    {
+      "id": "5985-5",
+      "name": "千葉駅",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-5.jpg",
+      "ep": "5",
+      "geo": [
+        35.61199,
+        140.115
+      ]
+    },
+    {
+      "id": "5985-6",
+      "name": "ホテルニューオータニ幕張",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-6.jpg",
+      "ep": "5",
+      "geo": [
+        35.64589,
+        140.03906
+      ]
+    },
+    {
+      "id": "5985-7",
+      "name": "エム・ベイポイント幕張ビル",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-7.jpg",
+      "ep": "5",
+      "geo": [
+        35.65202,
+        140.03891
+      ]
+    },
+    {
+      "id": "5985-8",
+      "name": "富士通幕張システムラボラトリ",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-8.jpg",
+      "ep": "5",
+      "geo": [
+        35.65309,
+        140.03795
+      ]
+    },
+    {
+      "id": "5985-9",
+      "name": "富士通［千葉市美浜区］（バス）",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-9.jpg",
+      "ep": "5",
+      "geo": [
+        35.65298,
+        140.03772
+      ]
+    },
+    {
+      "id": "5985-10",
+      "name": "友好広場（フレンドシップスクエア）",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-10.jpg",
+      "ep": "5",
+      "geo": [
+        35.65118,
+        140.03919
+      ]
+    },
+    {
+      "id": "5985-11",
+      "name": "ららぽーとTOKYO-BAY",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-11.jpg",
+      "ep": "6",
+      "geo": [
+        35.68462,
+        139.99214
+      ]
+    },
+    {
+      "id": "5985-12",
+      "name": "Gapストア ららぽーとTOKYO-BAY店",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-12.jpg",
+      "ep": "6",
+      "geo": [
+        35.6868,
+        139.98987
+      ]
+    },
+    {
+      "id": "5985-13",
+      "name": "「無題」剣持和夫",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-13.jpg",
+      "ep": "7",
+      "geo": [
+        35.64929,
+        140.04152
+      ]
+    },
+    {
+      "id": "5985-14",
+      "name": "稲毛海岸駅",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-14.jpg",
+      "ep": "9",
+      "geo": [
+        35.62953,
+        140.07369
+      ]
+    },
+    {
+      "id": "5985-15",
+      "name": "千葉中央郵便局",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-15.jpg",
+      "ep": "9",
+      "geo": [
+        35.60259,
+        140.10144
+      ]
+    },
+    {
+      "id": "5985-16",
+      "name": "千葉ポートパーク",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-16.jpg",
+      "ep": "9",
+      "geo": [
+        35.59833,
+        140.09937
+      ]
+    },
+    {
+      "id": "5985-17",
+      "name": "セントラルパークイースト幕張パークタワー",
+      "image": "https://image.xinu.ink/pic/data/5985/images/5985-17.jpg",
+      "ep": "11",
+      "geo": [
+        35.64397,
+        140.04575
+      ]
+    }
+  ]
+}

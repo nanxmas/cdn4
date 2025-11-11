@@ -1,0 +1,504 @@
+{
+  "points": [
+    {
+      "id": "5974-1",
+      "name": "八景生花店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.33113,
+        139.62066
+      ]
+    },
+    {
+      "id": "5974-2",
+      "name": "松ノ木児童遊園",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.69487,
+        139.64661
+      ]
+    },
+    {
+      "id": "5974-3",
+      "name": "ヴィレッジヴァンガード下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.66182,
+        139.66857
+      ]
+    },
+    {
+      "id": "5974-4",
+      "name": "ヒロセフォトショップ",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.66162,
+        139.66929
+      ]
+    },
+    {
+      "id": "5974-5",
+      "name": "下北沢SHELTER",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.6615463,
+        139.6695566
+      ]
+    },
+    {
+      "id": "5974-6",
+      "name": "とりよし",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.32967,
+        139.62393
+      ]
+    },
+    {
+      "id": "5974-7",
+      "name": "焼肉屋YAZAWA 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.66192,
+        139.66835
+      ]
+    },
+    {
+      "id": "5974-8",
+      "name": "福のから 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.66172,
+        139.66891
+      ]
+    },
+    {
+      "id": "5974-9",
+      "name": "下北沢駅",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-9.jpg",
+      "ep": "4",
+      "geo": [
+        35.66157,
+        139.66759
+      ]
+    },
+    {
+      "id": "5974-10",
+      "name": "焼肉ダイニング 太樹苑 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-10.jpg",
+      "ep": "4",
+      "geo": [
+        35.66263,
+        139.66933
+      ]
+    },
+    {
+      "id": "5974-11",
+      "name": "モスバーガー下北沢北口店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-11.jpg",
+      "ep": "4",
+      "geo": [
+        35.66288,
+        139.66847
+      ]
+    },
+    {
+      "id": "5974-12",
+      "name": "下北沢北自転車等置場",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-12.jpg",
+      "ep": "4",
+      "geo": [
+        35.66179,
+        139.66677
+      ]
+    },
+    {
+      "id": "5974-13",
+      "name": "Spice Curry & Cafe SHANTi 下北店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-13.jpg",
+      "ep": "4",
+      "geo": [
+        35.6624769,
+        139.6680066
+      ]
+    },
+    {
+      "id": "5974-14",
+      "name": "クオーレ・フォルテ付近",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-14.jpg",
+      "ep": "4",
+      "geo": [
+        35.6632103,
+        139.6691819
+      ]
+    },
+    {
+      "id": "5974-15",
+      "name": "CREA BASE 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.66053,
+        139.66953
+      ]
+    },
+    {
+      "id": "5974-16",
+      "name": "トラストパーク 代沢2丁目付近",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.66004,
+        139.66914
+      ]
+    },
+    {
+      "id": "5974-17",
+      "name": "タイムズ代沢第５",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-17.jpg",
+      "ep": "4",
+      "geo": [
+        35.6588591,
+        139.6690487
+      ]
+    },
+    {
+      "id": "5974-18",
+      "name": "下北沢パーキング",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-18.jpg",
+      "ep": "4",
+      "geo": [
+        35.66272,
+        139.66909
+      ]
+    },
+    {
+      "id": "5974-19",
+      "name": "フォーカス",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-19.jpg",
+      "ep": "4",
+      "geo": [
+        35.6638999,
+        139.6680733
+      ]
+    },
+    {
+      "id": "5974-20",
+      "name": "タイムズ下北沢第８",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.6625,
+        139.66902
+      ]
+    },
+    {
+      "id": "5974-21",
+      "name": "どんぐりひろば公園",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.6643368,
+        139.668609
+      ]
+    },
+    {
+      "id": "5974-22",
+      "name": "ADRIFT",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-22.jpg",
+      "ep": "4",
+      "geo": [
+        35.6639453,
+        139.6709172
+      ]
+    },
+    {
+      "id": "5974-23",
+      "name": "下北線路街 空き地",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.66294,
+        139.66933
+      ]
+    },
+    {
+      "id": "5974-24",
+      "name": "劇・小劇場付近",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-24.jpg",
+      "ep": "5",
+      "geo": [
+        35.6616575,
+        139.6691569
+      ]
+    },
+    {
+      "id": "5974-25",
+      "name": "琵琶島神社",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.33195,
+        139.62228
+      ]
+    },
+    {
+      "id": "5974-26",
+      "name": "金沢シーサイドライン下広場",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-26.jpg",
+      "ep": "6",
+      "geo": [
+        35.33027,
+        139.62315
+      ]
+    },
+    {
+      "id": "5974-27",
+      "name": "金沢八景駅",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-27.jpg",
+      "ep": "6",
+      "geo": [
+        35.33134,
+        139.62074
+      ]
+    },
+    {
+      "id": "5974-28",
+      "name": "金沢八景駅自転車駐車場",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-28.jpg",
+      "ep": "7",
+      "geo": [
+        35.33021,
+        139.62287
+      ]
+    },
+    {
+      "id": "5974-29",
+      "name": "八景橋",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-29.jpg",
+      "ep": "7",
+      "geo": [
+        35.32875,
+        139.6251
+      ]
+    },
+    {
+      "id": "5974-30",
+      "name": "ジェットセット 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-30.jpg",
+      "ep": "7",
+      "geo": [
+        35.66309,
+        139.66923
+      ]
+    },
+    {
+      "id": "5974-31",
+      "name": "柳町町内会館",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-31.jpg",
+      "ep": "7",
+      "geo": [
+        35.32648,
+        139.6247
+      ]
+    },
+    {
+      "id": "5974-32",
+      "name": "中華 丸長",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-32.jpg",
+      "ep": "7",
+      "geo": [
+        35.6554,
+        139.66738
+      ]
+    },
+    {
+      "id": "5974-33",
+      "name": "46ma",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-33.jpg",
+      "ep": "7",
+      "geo": [
+        35.6617085,
+        139.6694657
+      ]
+    },
+    {
+      "id": "5974-34",
+      "name": "こけら",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-34.jpg",
+      "ep": "8",
+      "geo": [
+        35.6598648,
+        139.668555
+      ]
+    },
+    {
+      "id": "5974-35",
+      "name": "片瀬江ノ島駅",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-35.jpg",
+      "ep": "9",
+      "geo": [
+        35.3086765,
+        139.4836789
+      ]
+    },
+    {
+      "id": "5974-36",
+      "name": "Couple Stairs Enoshima",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-36.jpg",
+      "ep": "9",
+      "geo": [
+        35.30715,
+        139.48446
+      ]
+    },
+    {
+      "id": "5974-37",
+      "name": "江ノ島海岸（バス）",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-37.jpg",
+      "ep": "9",
+      "geo": [
+        35.30675,
+        139.48392
+      ]
+    },
+    {
+      "id": "5974-38",
+      "name": "あさひ本店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-38.jpg",
+      "ep": "9",
+      "geo": [
+        35.3010499,
+        139.4805098
+      ]
+    },
+    {
+      "id": "5974-39",
+      "name": "春巳屋",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-39.jpg",
+      "ep": "9",
+      "geo": [
+        35.30072,
+        139.48038
+      ]
+    },
+    {
+      "id": "5974-40",
+      "name": "江島神社 朱の鳥居(大鳥居)",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-40.jpg",
+      "ep": "9",
+      "geo": [
+        35.30063,
+        139.48026
+      ]
+    },
+    {
+      "id": "5974-41",
+      "name": "江の島エスカー3区終点",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-41.jpg",
+      "ep": "9",
+      "geo": [
+        35.29903,
+        139.48026
+      ]
+    },
+    {
+      "id": "5974-42",
+      "name": "江の島シーキャンドル",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-42.jpg",
+      "ep": "9",
+      "geo": [
+        35.299818,
+        139.4784833
+      ]
+    },
+    {
+      "id": "5974-43",
+      "name": "大道芸広場",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-43.jpg",
+      "ep": "9",
+      "geo": [
+        35.29907,
+        139.4798
+      ]
+    },
+    {
+      "id": "5974-44",
+      "name": "奉安殿",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-44.jpg",
+      "ep": "9",
+      "geo": [
+        35.3002174,
+        139.4798357
+      ]
+    },
+    {
+      "id": "5974-45",
+      "name": "江島神社 辺津宮（へつのみや）",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-45.jpg",
+      "ep": "9",
+      "geo": [
+        35.30035,
+        139.47978
+      ]
+    },
+    {
+      "id": "5974-46",
+      "name": "新宿LOFT",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-46.jpg",
+      "ep": "10",
+      "geo": [
+        35.69534,
+        139.70266
+      ]
+    },
+    {
+      "id": "5974-47",
+      "name": "バーガーキング 下北沢駅南口店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-47.jpg",
+      "ep": "10",
+      "geo": [
+        35.66066,
+        139.66754
+      ]
+    },
+    {
+      "id": "5974-48",
+      "name": "すき家 下北沢店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-48.jpg",
+      "ep": "10",
+      "geo": [
+        35.66108,
+        139.66763
+      ]
+    },
+    {
+      "id": "5974-49",
+      "name": "イシバシ楽器 御茶ノ水本店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-49.jpg",
+      "ep": "12",
+      "geo": [
+        35.69912,
+        139.76317
+      ]
+    },
+    {
+      "id": "5974-50",
+      "name": "クロサワ楽器 お茶の水駅前店",
+      "image": "https://image.xinu.ink/pic/data/5974/images/5974-50.jpg",
+      "ep": "12",
+      "geo": [
+        35.69927,
+        139.7632
+      ]
+    }
+  ]
+}
