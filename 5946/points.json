@@ -1,0 +1,1444 @@
+{
+  "points": [
+    {
+      "id": "5946-1",
+      "name": "下部薬局",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.44522,
+        138.47762
+      ]
+    },
+    {
+      "id": "5946-2",
+      "name": "南部橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.28198,
+        138.45987
+      ]
+    },
+    {
+      "id": "5946-3",
+      "name": "旧古関郵便局",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.47482,
+        138.52384
+      ]
+    },
+    {
+      "id": "5946-4",
+      "name": "旧下部町水防倉庫",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.4795,
+        138.5273
+      ]
+    },
+    {
+      "id": "5946-5",
+      "name": "市営 灯台下駐車場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-5.jpg",
+      "ep": "1",
+      "geo": [
+        34.59563,
+        138.22731
+      ]
+    },
+    {
+      "id": "5946-6",
+      "name": "浩庵本館セントラルロッジ",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.47338,
+        138.57334
+      ]
+    },
+    {
+      "id": "5946-7",
+      "name": "日本茶きみくら 本店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-7.jpg",
+      "ep": "1",
+      "geo": [
+        34.75211,
+        138.03267
+      ]
+    },
+    {
+      "id": "5946-8",
+      "name": "浩庵キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.47202,
+        138.57466
+      ]
+    },
+    {
+      "id": "5946-9",
+      "name": "渚橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-9.jpg",
+      "ep": "1",
+      "geo": [
+        34.69565,
+        137.60712
+      ]
+    },
+    {
+      "id": "5946-10",
+      "name": "身延第二分団第二部",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.37697,
+        138.44601
+      ]
+    },
+    {
+      "id": "5946-11",
+      "name": "セントラル技研",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.3776,
+        138.44633
+      ]
+    },
+    {
+      "id": "5946-12",
+      "name": "身延郵便局",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.37154,
+        138.44113
+      ]
+    },
+    {
+      "id": "5946-13",
+      "name": "池上アパト",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.37221,
+        138.44032
+      ]
+    },
+    {
+      "id": "5946-14",
+      "name": "身延町役場身延支所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.37165,
+        138.44385
+      ]
+    },
+    {
+      "id": "5946-15",
+      "name": "身延山 久遠寺",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.3813,
+        138.42621
+      ]
+    },
+    {
+      "id": "5946-16",
+      "name": "飛騨小町",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-16.jpg",
+      "ep": "1",
+      "geo": [
+        36.14279,
+        137.25898
+      ]
+    },
+    {
+      "id": "5946-17",
+      "name": "シャトレーゼ 身延店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-17.jpg",
+      "ep": "1",
+      "geo": [
+        35.43316,
+        138.44147
+      ]
+    },
+    {
+      "id": "5946-18",
+      "name": "妙圓寺 末寺",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-18.jpg",
+      "ep": "1",
+      "geo": [
+        35.46592,
+        138.50761
+      ]
+    },
+    {
+      "id": "5946-19",
+      "name": "下部ホテル寮",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-19.jpg",
+      "ep": "1",
+      "geo": [
+        35.4338,
+        138.47553
+      ]
+    },
+    {
+      "id": "5946-20",
+      "name": "上之平山神社",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-20.jpg",
+      "ep": "1",
+      "geo": [
+        35.42546,
+        138.46686
+      ]
+    },
+    {
+      "id": "5946-21",
+      "name": "南部水位観測所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-21.jpg",
+      "ep": "1",
+      "geo": [
+        35.28831,
+        138.45996
+      ]
+    },
+    {
+      "id": "5946-22",
+      "name": "JA山梨みらい 栄支店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-22.jpg",
+      "ep": "1",
+      "geo": [
+        35.28308,
+        138.4628
+      ]
+    },
+    {
+      "id": "5946-23",
+      "name": "御前埼灯台",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-23.jpg",
+      "ep": "2",
+      "geo": [
+        34.59558,
+        138.22584
+      ]
+    },
+    {
+      "id": "5946-24",
+      "name": "身延鈑金塗装",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-24.jpg",
+      "ep": "2",
+      "geo": [
+        35.38065,
+        138.44842
+      ]
+    },
+    {
+      "id": "5946-25",
+      "name": "波木井坂下",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-25.jpg",
+      "ep": "2",
+      "geo": [
+        35.38116,
+        138.44812
+      ]
+    },
+    {
+      "id": "5946-26",
+      "name": "矢奈比賣神社 大鳥居",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-26.jpg",
+      "ep": "2",
+      "geo": [
+        34.72795,
+        137.86356
+      ]
+    },
+    {
+      "id": "5946-27",
+      "name": "見付天神 矢奈比賣神社",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-27.jpg",
+      "ep": "2",
+      "geo": [
+        34.72988,
+        137.86406
+      ]
+    },
+    {
+      "id": "5946-28",
+      "name": "霊犬神社",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-28.jpg",
+      "ep": "2",
+      "geo": [
+        34.73226,
+        137.86494
+      ]
+    },
+    {
+      "id": "5946-29",
+      "name": "竜洋海洋公園 オートキャンプ場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-29.jpg",
+      "ep": "2",
+      "geo": [
+        34.65221,
+        137.80703
+      ]
+    },
+    {
+      "id": "5946-30",
+      "name": "掛塚灯台",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-30.jpg",
+      "ep": "2",
+      "geo": [
+        34.64782,
+        137.80404
+      ]
+    },
+    {
+      "id": "5946-31",
+      "name": "内船駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-31.jpg",
+      "ep": "2",
+      "geo": [
+        35.28154,
+        138.46488
+      ]
+    },
+    {
+      "id": "5946-32",
+      "name": "身延庵",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-32.jpg",
+      "ep": "2",
+      "geo": [
+        35.39593,
+        138.41697
+      ]
+    },
+    {
+      "id": "5946-33",
+      "name": "祖師堂",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-33.jpg",
+      "ep": "2",
+      "geo": [
+        35.39729,
+        138.41702
+      ]
+    },
+    {
+      "id": "5946-34",
+      "name": "福田海岸",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-34.jpg",
+      "ep": "2",
+      "geo": [
+        34.66272,
+        137.87988
+      ]
+    },
+    {
+      "id": "5946-35",
+      "name": "高下ダイヤモンド富士スポット",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-35.jpg",
+      "ep": "2",
+      "geo": [
+        35.53365,
+        138.41594
+      ]
+    },
+    {
+      "id": "5946-36",
+      "name": "遠州大橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-36.jpg",
+      "ep": "3",
+      "geo": [
+        34.66225,
+        137.79115
+      ]
+    },
+    {
+      "id": "5946-37",
+      "name": "浜松市舞阪支所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-37.jpg",
+      "ep": "3",
+      "geo": [
+        34.68752,
+        137.6086
+      ]
+    },
+    {
+      "id": "5946-38",
+      "name": "ゆ～りん渚園ターミナル",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-38.jpg",
+      "ep": "3",
+      "geo": [
+        34.69745,
+        137.60722
+      ]
+    },
+    {
+      "id": "5946-39",
+      "name": "浜松市舞阪表浜駐車場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-39.jpg",
+      "ep": "3",
+      "geo": [
+        34.67912,
+        137.59898
+      ]
+    },
+    {
+      "id": "5946-40",
+      "name": "開春楼",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-40.jpg",
+      "ep": "3",
+      "geo": [
+        34.68905,
+        137.60387
+      ]
+    },
+    {
+      "id": "5946-41",
+      "name": "弁天島海浜公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-41.jpg",
+      "ep": "3",
+      "geo": [
+        34.68894,
+        137.60274
+      ]
+    },
+    {
+      "id": "5946-42",
+      "name": "しず花",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-42.jpg",
+      "ep": "3",
+      "geo": [
+        34.76352,
+        137.61271
+      ]
+    },
+    {
+      "id": "5946-43",
+      "name": "藤田屋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-43.jpg",
+      "ep": "3",
+      "geo": [
+        34.80756,
+        137.65119
+      ]
+    },
+    {
+      "id": "5946-44",
+      "name": "浜名湖佐久米駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-44.jpg",
+      "ep": "3",
+      "geo": [
+        34.78919,
+        137.59941
+      ]
+    },
+    {
+      "id": "5946-45",
+      "name": "さくめ",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-45.jpg",
+      "ep": "3",
+      "geo": [
+        34.78959,
+        137.59959
+      ]
+    },
+    {
+      "id": "5946-46",
+      "name": "うなぎさくめ第2駐車場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-46.jpg",
+      "ep": "3",
+      "geo": [
+        34.78867,
+        137.59677
+      ]
+    },
+    {
+      "id": "5946-47",
+      "name": "ポコちゃん海岸",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-47.jpg",
+      "ep": "3",
+      "geo": [
+        34.78528,
+        137.58849
+      ]
+    },
+    {
+      "id": "5946-48",
+      "name": "奥浜名湖展望公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-48.jpg",
+      "ep": "3",
+      "geo": [
+        34.79821,
+        137.6081
+      ]
+    },
+    {
+      "id": "5946-49",
+      "name": "とよだ農園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-49.jpg",
+      "ep": "3",
+      "geo": [
+        34.79322,
+        137.6182
+      ]
+    },
+    {
+      "id": "5946-50",
+      "name": "SWEN浜松店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-50.jpg",
+      "ep": "4",
+      "geo": [
+        34.7209,
+        137.76826
+      ]
+    },
+    {
+      "id": "5946-51",
+      "name": "新・洗濯生活身延",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-51.jpg",
+      "ep": "4",
+      "geo": [
+        35.36334,
+        138.45281
+      ]
+    },
+    {
+      "id": "5946-52",
+      "name": "身延饅頭ベンチ",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-52.jpg",
+      "ep": "4",
+      "geo": [
+        35.3618,
+        138.45234
+      ]
+    },
+    {
+      "id": "5946-53",
+      "name": "身延駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-53.jpg",
+      "ep": "4",
+      "geo": [
+        35.3612,
+        138.45286
+      ]
+    },
+    {
+      "id": "5946-54",
+      "name": "純手打そば処 藤義",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-54.jpg",
+      "ep": "4",
+      "geo": [
+        35.65952,
+        138.53292
+      ]
+    },
+    {
+      "id": "5946-55",
+      "name": "タイヤガーデン 南部店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-55.jpg",
+      "ep": "4",
+      "geo": [
+        35.28241,
+        138.45639
+      ]
+    },
+    {
+      "id": "5946-56",
+      "name": "富士山駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-56.jpg",
+      "ep": "5",
+      "geo": [
+        35.48372,
+        138.79581
+      ]
+    },
+    {
+      "id": "5946-57",
+      "name": "Gateway Fujiyama 富士山駅店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-57.jpg",
+      "ep": "5",
+      "geo": [
+        35.48372,
+        138.79513
+      ]
+    },
+    {
+      "id": "5946-58",
+      "name": "富士山の水汲み場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-58.jpg",
+      "ep": "5",
+      "geo": [
+        35.45832,
+        138.80234
+      ]
+    },
+    {
+      "id": "5946-59",
+      "name": "モンベル 富士吉田店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-59.jpg",
+      "ep": "5",
+      "geo": [
+        35.45885,
+        138.80346
+      ]
+    },
+    {
+      "id": "5946-60",
+      "name": "山中湖温泉 紅富士の湯",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-60.jpg",
+      "ep": "5",
+      "geo": [
+        35.43014,
+        138.84239
+      ]
+    },
+    {
+      "id": "5946-61",
+      "name": "オギノ 山中湖店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-61.jpg",
+      "ep": "5",
+      "geo": [
+        35.43408,
+        138.84752
+      ]
+    },
+    {
+      "id": "5946-62",
+      "name": "みさき",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-62.jpg",
+      "ep": "5",
+      "geo": [
+        35.42344,
+        138.89298
+      ]
+    },
+    {
+      "id": "5946-63",
+      "name": "sotosotodays CAMPGROUNDS 山中湖みさき",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-63.jpg",
+      "ep": "5",
+      "geo": [
+        35.4233,
+        138.89445
+      ]
+    },
+    {
+      "id": "5946-64",
+      "name": "西富士宮駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-64.jpg",
+      "ep": "7",
+      "geo": [
+        35.22559,
+        138.60266
+      ]
+    },
+    {
+      "id": "5946-65",
+      "name": "旅館大黒屋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-65.jpg",
+      "ep": "7",
+      "geo": [
+        35.39723,
+        138.37756
+      ]
+    },
+    {
+      "id": "5946-66",
+      "name": "赤沢区公民館",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-66.jpg",
+      "ep": "7",
+      "geo": [
+        35.39668,
+        138.37694
+      ]
+    },
+    {
+      "id": "5946-67",
+      "name": "赤沢宿 宿の駅清水屋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-67.jpg",
+      "ep": "7",
+      "geo": [
+        35.39729,
+        138.37661
+      ]
+    },
+    {
+      "id": "5946-68",
+      "name": "富士山本宮浅間大社 二の鳥居",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-68.jpg",
+      "ep": "7",
+      "geo": [
+        35.22549,
+        138.61035
+      ]
+    },
+    {
+      "id": "5946-69",
+      "name": "流鏑馬像",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-69.jpg",
+      "ep": "7",
+      "geo": [
+        35.22655,
+        138.61028
+      ]
+    },
+    {
+      "id": "5946-70",
+      "name": "富士山本宮浅間大社",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-70.jpg",
+      "ep": "7",
+      "geo": [
+        35.22748,
+        138.61002
+      ]
+    },
+    {
+      "id": "5946-71",
+      "name": "お宮横丁",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-71.jpg",
+      "ep": "7",
+      "geo": [
+        35.22498,
+        138.61014
+      ]
+    },
+    {
+      "id": "5946-72",
+      "name": "旧春木川橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-72.jpg",
+      "ep": "7",
+      "geo": [
+        35.40916,
+        138.36941
+      ]
+    },
+    {
+      "id": "5946-73",
+      "name": "日本軽金属（株） 発電課角瀬発電所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-73.jpg",
+      "ep": "7",
+      "geo": [
+        35.41021,
+        138.36646
+      ]
+    },
+    {
+      "id": "5946-74",
+      "name": "青崖トンネル",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-74.jpg",
+      "ep": "7",
+      "geo": [
+        35.49792,
+        138.33128
+      ]
+    },
+    {
+      "id": "5946-75",
+      "name": "湯島の大杉",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-75.jpg",
+      "ep": "7",
+      "geo": [
+        35.52442,
+        138.31513
+      ]
+    },
+    {
+      "id": "5946-76",
+      "name": "湯島の神水",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-76.jpg",
+      "ep": "7",
+      "geo": [
+        35.52462,
+        138.31366
+      ]
+    },
+    {
+      "id": "5946-77",
+      "name": "ユースペース富士宮淀師店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-77.jpg",
+      "ep": "7",
+      "geo": [
+        35.2384,
+        138.59857
+      ]
+    },
+    {
+      "id": "5946-78",
+      "name": "お好み食堂 伊東",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-78.jpg",
+      "ep": "7",
+      "geo": [
+        35.24119,
+        138.59654
+      ]
+    },
+    {
+      "id": "5946-79",
+      "name": "外良寺",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-79.jpg",
+      "ep": "7",
+      "geo": [
+        35.5779,
+        138.30047
+      ]
+    },
+    {
+      "id": "5946-80",
+      "name": "秘境冒険民宿 山人砦",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-80.jpg",
+      "ep": "7",
+      "geo": [
+        35.57676,
+        138.3015
+      ]
+    },
+    {
+      "id": "5946-81",
+      "name": "古民家カフェ 鍵屋 ユネスコエコパークステーション",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-81.jpg",
+      "ep": "7",
+      "geo": [
+        35.57668,
+        138.3021
+      ]
+    },
+    {
+      "id": "5946-82",
+      "name": "ポテト淀川店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-82.jpg",
+      "ep": "7",
+      "geo": [
+        35.23395,
+        138.5995
+      ]
+    },
+    {
+      "id": "5946-83",
+      "name": "奈良田温泉 女帝の湯",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-83.jpg",
+      "ep": "7",
+      "geo": [
+        35.57644,
+        138.30183
+      ]
+    },
+    {
+      "id": "5946-84",
+      "name": "富士川駅",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-84.jpg",
+      "ep": "7",
+      "geo": [
+        35.1412,
+        138.61819
+      ]
+    },
+    {
+      "id": "5946-85",
+      "name": "おおひら接骨院",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-85.jpg",
+      "ep": "8",
+      "geo": [
+        35.14446,
+        138.61348
+      ]
+    },
+    {
+      "id": "5946-86",
+      "name": "中之郷",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-86.jpg",
+      "ep": "8",
+      "geo": [
+        35.14793,
+        138.61293
+      ]
+    },
+    {
+      "id": "5946-87",
+      "name": "太陽光発電所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-87.jpg",
+      "ep": "8",
+      "geo": [
+        35.15226,
+        138.60727
+      ]
+    },
+    {
+      "id": "5946-88",
+      "name": "野田山健康緑地公園富士川キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-88.jpg",
+      "ep": "8",
+      "geo": [
+        35.14816,
+        138.59775
+      ]
+    },
+    {
+      "id": "5946-89",
+      "name": "奈良田第一発電所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-89.jpg",
+      "ep": "8",
+      "geo": [
+        35.5901,
+        138.30581
+      ]
+    },
+    {
+      "id": "5946-90",
+      "name": "早川町森林組合",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-90.jpg",
+      "ep": "8",
+      "geo": [
+        35.41111,
+        138.35699
+      ]
+    },
+    {
+      "id": "5946-91",
+      "name": "硯匠庵",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-91.jpg",
+      "ep": "8",
+      "geo": [
+        35.40504,
+        138.32889
+      ]
+    },
+    {
+      "id": "5946-92",
+      "name": "雨畑の吊橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-92.jpg",
+      "ep": "8",
+      "geo": [
+        35.40496,
+        138.33085
+      ]
+    },
+    {
+      "id": "5946-93",
+      "name": "ヴィラ雨畑",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-93.jpg",
+      "ep": "8",
+      "geo": [
+        35.40559,
+        138.32941
+      ]
+    },
+    {
+      "id": "5946-94",
+      "name": "下部小・中学校跡",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-94.jpg",
+      "ep": "9",
+      "geo": [
+        35.44771,
+        138.48085
+      ]
+    },
+    {
+      "id": "5946-95",
+      "name": "本栖湖展望公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-95.jpg",
+      "ep": "9",
+      "geo": [
+        35.47433,
+        138.57569
+      ]
+    },
+    {
+      "id": "5946-96",
+      "name": "本栖入口",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-96.jpg",
+      "ep": "9",
+      "geo": [
+        35.46271,
+        138.60561
+      ]
+    },
+    {
+      "id": "5946-97",
+      "name": "朝霧高原",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-97.jpg",
+      "ep": "9",
+      "geo": [
+        35.42183,
+        138.59188
+      ]
+    },
+    {
+      "id": "5946-98",
+      "name": "セブン-イレブン 富士宮朝霧高原店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-98.jpg",
+      "ep": "9",
+      "geo": [
+        35.3729,
+        138.57569
+      ]
+    },
+    {
+      "id": "5946-99",
+      "name": "富士山ビュースポット西浦江梨",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-99.jpg",
+      "ep": "10",
+      "geo": [
+        35.02476,
+        138.79049
+      ]
+    },
+    {
+      "id": "5946-100",
+      "name": "大瀬神社",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-100.jpg",
+      "ep": "10",
+      "geo": [
+        35.02768,
+        138.78668
+      ]
+    },
+    {
+      "id": "5946-101",
+      "name": "大瀬崎のビャクシン樹林",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-101.jpg",
+      "ep": "10",
+      "geo": [
+        35.02892,
+        138.788
+      ]
+    },
+    {
+      "id": "5946-102",
+      "name": "大瀬崎神池",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-102.jpg",
+      "ep": "10",
+      "geo": [
+        35.02941,
+        138.78762
+      ]
+    },
+    {
+      "id": "5946-103",
+      "name": "伊勢海老の標語",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-103.jpg",
+      "ep": "10",
+      "geo": [
+        34.69259,
+        138.79466
+      ]
+    },
+    {
+      "id": "5946-104",
+      "name": "道の駅 天城越え",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-104.jpg",
+      "ep": "10",
+      "geo": [
+        34.85594,
+        138.92207
+      ]
+    },
+    {
+      "id": "5946-105",
+      "name": "龍宮窟",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-105.jpg",
+      "ep": "10",
+      "geo": [
+        34.64209,
+        138.91556
+      ]
+    },
+    {
+      "id": "5946-106",
+      "name": "かわづいでゆ橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-106.jpg",
+      "ep": "10",
+      "geo": [
+        34.76131,
+        138.98295
+      ]
+    },
+    {
+      "id": "5946-107",
+      "name": "まどが浜海遊公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-107.jpg",
+      "ep": "10",
+      "geo": [
+        34.67522,
+        138.95484
+      ]
+    },
+    {
+      "id": "5946-108",
+      "name": "下田温泉 海遊の足湯",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-108.jpg",
+      "ep": "10",
+      "geo": [
+        34.67583,
+        138.95538
+      ]
+    },
+    {
+      "id": "5946-109",
+      "name": "まどが浜海遊公園 駐車場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-109.jpg",
+      "ep": "10",
+      "geo": [
+        34.67594,
+        138.95498
+      ]
+    },
+    {
+      "id": "5946-110",
+      "name": "Cafe&Hamburger Ra-maru",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-110.jpg",
+      "ep": "10",
+      "geo": [
+        34.67455,
+        138.95124
+      ]
+    },
+    {
+      "id": "5946-111",
+      "name": "マックスバリュ伊豆下田店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-111.jpg",
+      "ep": "10",
+      "geo": [
+        34.68195,
+        138.94381
+      ]
+    },
+    {
+      "id": "5946-112",
+      "name": "万宝商店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-112.jpg",
+      "ep": "10",
+      "geo": [
+        34.67364,
+        138.97073
+      ]
+    },
+    {
+      "id": "5946-113",
+      "name": "爪木崎自然公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-113.jpg",
+      "ep": "10",
+      "geo": [
+        34.66157,
+        138.98382
+      ]
+    },
+    {
+      "id": "5946-114",
+      "name": "爪木埼灯台",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-114.jpg",
+      "ep": "10",
+      "geo": [
+        34.65876,
+        138.98691
+      ]
+    },
+    {
+      "id": "5946-115",
+      "name": "爪木崎俵磯",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-115.jpg",
+      "ep": "10",
+      "geo": [
+        34.65892,
+        138.9851
+      ]
+    },
+    {
+      "id": "5946-116",
+      "name": "爪木崎",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-116.jpg",
+      "ep": "10",
+      "geo": [
+        34.66101,
+        138.98391
+      ]
+    },
+    {
+      "id": "5946-117",
+      "name": "伊豆オレンヂセンター",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-117.jpg",
+      "ep": "10",
+      "geo": [
+        34.75937,
+        139.01918
+      ]
+    },
+    {
+      "id": "5946-118",
+      "name": "細野高原ツリーハウス村キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-118.jpg",
+      "ep": "10",
+      "geo": [
+        34.79419,
+        139.01646
+      ]
+    },
+    {
+      "id": "5946-119",
+      "name": "パラグライダー三筋山テイクオフ",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-119.jpg",
+      "ep": "10",
+      "geo": [
+        34.80473,
+        138.99908
+      ]
+    },
+    {
+      "id": "5946-120",
+      "name": "三筋山山頂展望台",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-120.jpg",
+      "ep": "11",
+      "geo": [
+        34.8047,
+        138.9955
+      ]
+    },
+    {
+      "id": "5946-121",
+      "name": "はまはし",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-121.jpg",
+      "ep": "11",
+      "geo": [
+        34.76779,
+        138.77774
+      ]
+    },
+    {
+      "id": "5946-122",
+      "name": "海辺のかくれ湯 清流",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-122.jpg",
+      "ep": "11",
+      "geo": [
+        34.7847,
+        138.7657
+      ]
+    },
+    {
+      "id": "5946-123",
+      "name": "キャンプ黄金崎",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-123.jpg",
+      "ep": "11",
+      "geo": [
+        34.84282,
+        138.76544
+      ]
+    },
+    {
+      "id": "5946-124",
+      "name": "沢田公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-124.jpg",
+      "ep": "11",
+      "geo": [
+        34.77707,
+        138.7656
+      ]
+    },
+    {
+      "id": "5946-125",
+      "name": "沢田公園 露天風呂",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-125.jpg",
+      "ep": "11",
+      "geo": [
+        34.77742,
+        138.76574
+      ]
+    },
+    {
+      "id": "5946-126",
+      "name": "堂ヶ島食堂",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-126.jpg",
+      "ep": "12",
+      "geo": [
+        34.78183,
+        138.76849
+      ]
+    },
+    {
+      "id": "5946-127",
+      "name": "亀岩展望地",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-127.jpg",
+      "ep": "12",
+      "geo": [
+        34.78161,
+        138.76644
+      ]
+    },
+    {
+      "id": "5946-128",
+      "name": "天窓洞",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-128.jpg",
+      "ep": "12",
+      "geo": [
+        34.78274,
+        138.76606
+      ]
+    },
+    {
+      "id": "5946-129",
+      "name": "堂ヶ島のトンボロ",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-129.jpg",
+      "ep": "12",
+      "geo": [
+        34.7847,
+        138.7618
+      ]
+    },
+    {
+      "id": "5946-130",
+      "name": "象島（伝兵衛島）",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-130.jpg",
+      "ep": "12",
+      "geo": [
+        34.78389,
+        138.76054
+      ]
+    },
+    {
+      "id": "5946-131",
+      "name": "瀬浜海岸",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-131.jpg",
+      "ep": "12",
+      "geo": [
+        34.78556,
+        138.76296
+      ]
+    },
+    {
+      "id": "5946-132",
+      "name": "フードストアあおき西伊豆店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-132.jpg",
+      "ep": "12",
+      "geo": [
+        34.76799,
+        138.77718
+      ]
+    },
+    {
+      "id": "5946-133",
+      "name": "だるま山高原レストハウス",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-133.jpg",
+      "ep": "12",
+      "geo": [
+        34.97585,
+        138.85093
+      ]
+    },
+    {
+      "id": "5946-134",
+      "name": "だるま山高原キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-134.jpg",
+      "ep": "12",
+      "geo": [
+        34.97425,
+        138.85488
+      ]
+    },
+    {
+      "id": "5946-135",
+      "name": "出逢い岬",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-135.jpg",
+      "ep": "12",
+      "geo": [
+        34.98317,
+        138.7703
+      ]
+    },
+    {
+      "id": "5946-136",
+      "name": "達磨山",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-136.jpg",
+      "ep": "12",
+      "geo": [
+        34.95499,
+        138.83934
+      ]
+    },
+    {
+      "id": "5946-137",
+      "name": "大室山登山リフト",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-137.jpg",
+      "ep": "13",
+      "geo": [
+        34.90761,
+        139.09703
+      ]
+    },
+    {
+      "id": "5946-138",
+      "name": "大室山",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-138.jpg",
+      "ep": "13",
+      "geo": [
+        34.90542,
+        139.09548
+      ]
+    },
+    {
+      "id": "5946-139",
+      "name": "伊豆シャボテン動物公園",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-139.jpg",
+      "ep": "13",
+      "geo": [
+        34.90737,
+        139.10202
+      ]
+    },
+    {
+      "id": "5946-140",
+      "name": "高原竜ヒドラ像",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-140.jpg",
+      "ep": "13",
+      "geo": [
+        34.90705,
+        139.10033
+      ]
+    },
+    {
+      "id": "5946-141",
+      "name": "広井酒店",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-141.jpg",
+      "ep": "13",
+      "geo": [
+        34.88773,
+        139.1046
+      ]
+    },
+    {
+      "id": "5946-142",
+      "name": "静岡県林業技術センター きのこ総合センター",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-142.jpg",
+      "ep": "13",
+      "geo": [
+        34.977,
+        138.91852
+      ]
+    },
+    {
+      "id": "5946-143",
+      "name": "源平橋",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-143.jpg",
+      "ep": "13",
+      "geo": [
+        35.16161,
+        138.66749
+      ]
+    },
+    {
+      "id": "5946-144",
+      "name": "みのぶ観光案内所",
+      "image": "https://image.xinu.ink/pic/data/5946/images/5946-144.jpg",
+      "ep": "13",
+      "geo": [
+        35.47403,
+        138.57562
+      ]
+    }
+  ]
+}
