@@ -1,0 +1,104 @@
+{
+  "points": [
+    {
+      "id": "6195-1",
+      "name": "練馬区立栄町公園",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-1.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7392732,
+        139.6674628
+      ]
+    },
+    {
+      "id": "6195-2",
+      "name": "練馬区立栄町公園",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-2.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7020844,
+        139.5789943
+      ]
+    },
+    {
+      "id": "6195-3",
+      "name": "ヴァレンティノ ビューティ 表参道ストア",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-3.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6672371,
+        139.7082414
+      ]
+    },
+    {
+      "id": "6195-4",
+      "name": "ソフトバンク吉祥寺サンロード",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-4.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7033654,
+        139.5797689
+      ]
+    },
+    {
+      "id": "6195-5",
+      "name": "ソフトバンク吉祥寺サンロード",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-5.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6943096,
+        139.7026545
+      ]
+    },
+    {
+      "id": "6195-6",
+      "name": "ソフトバンク吉祥寺サンロード",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-6.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7392681,
+        139.6110995
+      ]
+    },
+    {
+      "id": "6195-7",
+      "name": "Tokyo Ghoul",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-7.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7134053,
+        139.7400297
+      ]
+    },
+    {
+      "id": "6195-8",
+      "name": "Tokyo Ghoul",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-8.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6658692,
+        139.7109446
+      ]
+    },
+    {
+      "id": "6195-9",
+      "name": "Tokyo Ghoul",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-9.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6918627,
+        139.7010601
+      ]
+    },
+    {
+      "id": "6195-10",
+      "name": "Tokyo Ghoul",
+      "image": "https://image.xinu.ink/pic/data/6195/images/6195-10.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.7293433,
+        139.7143145
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "points": [
+    {
+      "id": "6192-1",
+      "name": "幽霊坂",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-1.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6443686,
+        139.7382295
+      ]
+    },
+    {
+      "id": "6192-2",
+      "name": "伊能忠敬測地遺功表",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-2.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6551947,
+        139.7479443
+      ]
+    },
+    {
+      "id": "6192-3",
+      "name": "伊能忠敬測地遺功表",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-3.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6707375,
+        139.6960752
+      ]
+    },
+    {
+      "id": "6192-4",
+      "name": "伊能忠敬測地遺功表",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-4.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6548349,
+        139.7479574
+      ]
+    },
+    {
+      "id": "6192-5",
+      "name": "Kaguya-sama: Love Is War Ultra Romantic",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-5.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6503576,
+        139.7412057
+      ]
+    },
+    {
+      "id": "6192-6",
+      "name": "Kaguya-sama: Love Is War Ultra Romantic",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-6.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6562618,
+        139.7473728
+      ]
+    },
+    {
+      "id": "6192-7",
+      "name": "旧台徳院霊廟惣門",
+      "image": "https://image.xinu.ink/pic/data/6192/images/6192-7.jpg",
+      "ep": "OTHERS0",
+      "geo": [
+        35.6561534,
+        139.7496701
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "points": [
+    {
+      "id": "6188-1",
+      "name": "Tamon's B-Side",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-1.jpg",
+      "ep": "OP0",
+      "geo": [
+        35.65939,
+        139.70116
+      ]
+    },
+    {
+      "id": "6188-2",
+      "name": "Tamon's B-Side",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-2.jpg",
+      "ep": "EP1",
+      "geo": [
+        35.66081,
+        139.70092
+      ],
+      "s": "11:34"
+    },
+    {
+      "id": "6188-3",
+      "name": "Tamon's B-Side",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-3.jpg",
+      "ep": "EP1",
+      "geo": [
+        35.70535,
+        139.57838
+      ],
+      "s": "11:34"
+    },
+    {
+      "id": "6188-4",
+      "name": "東京ドーム",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-4.jpg",
+      "ep": "EP1",
+      "geo": [
+        35.70458,
+        139.75294
+      ],
+      "s": "15:50"
+    },
+    {
+      "id": "6188-5",
+      "name": "東京ドーム",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-5.jpg",
+      "ep": "EP1",
+      "geo": [
+        35.64895,
+        140.03624
+      ],
+      "s": "17:35"
+    },
+    {
+      "id": "6188-6",
+      "name": "Tamon's B-Side",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-6.jpg",
+      "ep": "EP2",
+      "geo": [
+        35.71355,
+        139.58265
+      ],
+      "s": "8:33"
+    },
+    {
+      "id": "6188-7",
+      "name": "スターバックス コーヒー 吉祥寺駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-7.jpg",
+      "ep": "EP3",
+      "geo": [
+        35.70387,
+        139.58055
+      ]
+    },
+    {
+      "id": "6188-8",
+      "name": "スターバックス コーヒー 吉祥寺駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-8.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.70527,
+        139.57789
+      ],
+      "s": "6:59"
+    },
+    {
+      "id": "6188-9",
+      "name": "スターバックス コーヒー 吉祥寺駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-9.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.7262,
+        139.55742
+      ],
+      "s": "9:13"
+    },
+    {
+      "id": "6188-10",
+      "name": "金鷹社",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-10.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.72676,
+        139.55752
+      ],
+      "s": "11:25"
+    },
+    {
+      "id": "6188-11",
+      "name": "東伏見稲荷神社駐車場",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-11.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.72569,
+        139.55746
+      ],
+      "s": "14:13"
+    },
+    {
+      "id": "6188-12",
+      "name": "東伏見稲荷神社駐車場",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-12.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.72836,
+        139.55832
+      ],
+      "s": "17:02"
+    },
+    {
+      "id": "6188-13",
+      "name": "Tamon's B-Side",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-13.jpg",
+      "ep": "EP4",
+      "geo": [
+        35.65906,
+        139.70063
+      ],
+      "s": "21:01"
+    },
+    {
+      "id": "6188-14",
+      "name": "タイトーFステーション 吉祥寺ＪＯＹ店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-14.jpg",
+      "ep": "EP5",
+      "geo": [
+        35.70415,
+        139.57964
+      ],
+      "s": "7:27"
+    },
+    {
+      "id": "6188-15",
+      "name": "井の頭恩賜公園",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-15.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.69928,
+        139.57789
+      ],
+      "s": "3:56"
+    },
+    {
+      "id": "6188-16",
+      "name": "PIECE OF BAKE 吉祥寺店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-16.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.70466,
+        139.57884
+      ],
+      "s": "7:10"
+    },
+    {
+      "id": "6188-17",
+      "name": "吉祥寺PARCO",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-17.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.70347,
+        139.57798
+      ],
+      "s": "7:57"
+    },
+    {
+      "id": "6188-18",
+      "name": "吉祥寺オデヲン",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-18.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.70281,
+        139.58055
+      ],
+      "s": "8:52"
+    },
+    {
+      "id": "6188-19",
+      "name": "サンマルクカフェ 吉祥寺北口駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-19.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.70336,
+        139.5789
+      ],
+      "s": "11:18"
+    },
+    {
+      "id": "6188-20",
+      "name": "吉祥寺マルイ",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-20.jpg",
+      "ep": "EP7",
+      "geo": [
+        35.70215,
+        139.57945
+      ],
+      "s": "11:26"
+    },
+    {
+      "id": "6188-21",
+      "name": "フラミンゴ 吉祥寺店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-21.jpg",
+      "ep": "EP9",
+      "geo": [
+        35.70075,
+        139.57832
+      ],
+      "s": "0:45"
+    },
+    {
+      "id": "6188-22",
+      "name": "フラミンゴ 吉祥寺店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-22.jpg",
+      "ep": "EP9",
+      "geo": [
+        35.70063,
+        139.57826
+      ],
+      "s": "4:06"
+    },
+    {
+      "id": "6188-23",
+      "name": "本町コミュニティセンター",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-23.jpg",
+      "ep": "EP9",
+      "geo": [
+        35.70449,
+        139.58182
+      ],
+      "s": "4:10"
+    },
+    {
+      "id": "6188-24",
+      "name": "セブン-イレブン 吉祥寺通り東店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-24.jpg",
+      "ep": "EP9",
+      "geo": [
+        35.70851,
+        139.58012
+      ],
+      "s": "5:11"
+    },
+    {
+      "id": "6188-25",
+      "name": "くすりのダイイチ薬局 吉祥寺通り店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-25.jpg",
+      "ep": "EP9",
+      "geo": [
+        35.71725,
+        139.58297
+      ],
+      "s": "19:25"
+    },
+    {
+      "id": "6188-26",
+      "name": "吉祥寺PARCO",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-26.jpg",
+      "ep": "EP10",
+      "geo": [
+        35.70344,
+        139.57808
+      ],
+      "s": "4:54"
+    },
+    {
+      "id": "6188-27",
+      "name": "吉祥寺PARCO",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-27.jpg",
+      "ep": "EP10",
+      "geo": [
+        35.70353,
+        139.57923
+      ],
+      "s": "9:54"
+    },
+    {
+      "id": "6188-28",
+      "name": "セブン-イレブン 吉祥寺駅中央店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-28.jpg",
+      "ep": "EP10",
+      "geo": [
+        35.70351,
+        139.58086
+      ],
+      "s": "9:55"
+    },
+    {
+      "id": "6188-29",
+      "name": "戎橋（えびすばし）",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-29.jpg",
+      "ep": "EP10",
+      "geo": [
+        34.66899,
+        135.50132
+      ],
+      "s": "10:07"
+    },
+    {
+      "id": "6188-30",
+      "name": "戎橋（えびすばし）",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-30.jpg",
+      "ep": "EP11",
+      "geo": [
+        34.66914,
+        135.50129
+      ],
+      "s": "7:25"
+    },
+    {
+      "id": "6188-31",
+      "name": "メガネスーパーコンタクト吉祥寺駅北口駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-31.jpg",
+      "ep": "EP11",
+      "geo": [
+        35.70336,
+        139.57984
+      ],
+      "s": "8:45"
+    },
+    {
+      "id": "6188-32",
+      "name": "メガネスーパーコンタクト吉祥寺駅北口駅前店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-32.jpg",
+      "ep": "EP11",
+      "geo": [
+        35.70349,
+        139.57973
+      ],
+      "s": "15:06"
+    },
+    {
+      "id": "6188-33",
+      "name": "BOOKOFF 吉祥寺駅北口店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-33.jpg",
+      "ep": "EP11",
+      "geo": [
+        35.70469,
+        139.58053
+      ],
+      "s": "15:32"
+    },
+    {
+      "id": "6188-34",
+      "name": "メッセ三鷹店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-34.jpg",
+      "ep": "EP11",
+      "geo": [
+        35.70239,
+        139.55974
+      ],
+      "s": "15:50"
+    },
+    {
+      "id": "6188-35",
+      "name": "たま調剤薬局 下連雀店",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-35.jpg",
+      "ep": "EP12",
+      "geo": [
+        35.70159,
+        139.56398
+      ],
+      "s": "20:49"
+    },
+    {
+      "id": "6188-36",
+      "name": "井の頭恩賜公園",
+      "image": "https://image.xinu.ink/pic/data/6188/images/6188-36.jpg",
+      "ep": "EP12",
+      "geo": [
+        35.70016,
+        139.57781
+      ],
+      "s": "20:54"
+    }
+  ]
+}
