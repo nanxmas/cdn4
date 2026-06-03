@@ -6,10 +6,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-1.jpg",
       "ep": "OP1",
       "geo": [
-        35.69873,
-        139.77252
-      ],
-      "s": "21:39"
+        0,
+        0
+      ]
     },
     {
       "id": "6185-2",
@@ -17,10 +16,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-2.jpg",
       "ep": "EP1",
       "geo": [
-        35.69484,
-        139.70225
-      ],
-      "s": "4:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6185-3",
@@ -28,10 +26,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-3.jpg",
       "ep": "EP1",
       "geo": [
-        35.69467,
-        139.70249
-      ],
-      "s": "4:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6185-4",
@@ -39,10 +36,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-4.jpg",
       "ep": "EP1",
       "geo": [
-        35.69461,
-        139.70276
-      ],
-      "s": "4:59"
+        0,
+        0
+      ]
     },
     {
       "id": "6185-5",
@@ -50,10 +46,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-5.jpg",
       "ep": "EP1",
       "geo": [
-        35.69461,
-        139.70229
-      ],
-      "s": "5:10"
+        0,
+        0
+      ]
     },
     {
       "id": "6185-6",
@@ -61,10 +56,9 @@
       "image": "https://image.xinu.ink/pic/data/6185/images/6185-6.jpg",
       "ep": "EP1",
       "geo": [
-        35.69514,
-        139.70305
-      ],
-      "s": "5:15"
+        0,
+        0
+      ]
     }
   ]
 }

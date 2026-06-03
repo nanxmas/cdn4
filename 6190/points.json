@@ -6,10 +6,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-1.jpg",
       "ep": "ED1",
       "geo": [
-        35.6883648,
-        139.5989436
-      ],
-      "s": "22:42"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-2",
@@ -17,21 +16,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-2.jpg",
       "ep": "ED1",
       "geo": [
-        35.684056,
-        139.774598
-      ],
-      "s": "22:42"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-3",
-      "name": "日本橋",
+      "name": "名鉄協商パーキング渋谷第１２代々木１丁目駐輪場",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-3.jpg",
       "ep": "ED1",
       "geo": [
-        35.680292,
-        139.702453
-      ],
-      "s": "22:45"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-4",
@@ -39,10 +36,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-4.jpg",
       "ep": "ED1",
       "geo": [
-        35.661576,
-        139.6967404
-      ],
-      "s": "22:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-5",
@@ -50,21 +46,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-5.jpg",
       "ep": "ED1",
       "geo": [
-        35.661976,
-        139.849086
-      ],
-      "s": "23:13"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-6",
       "name": "バンコクナイト渋谷",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-6.jpg",
-      "ep": "ED1",
+      "ep": "ED6",
       "geo": [
-        35.6626,
-        139.69711
-      ],
-      "s": "23:38"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-7",
@@ -72,10 +66,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-7.jpg",
       "ep": "ED6",
       "geo": [
-        35.6625,
-        139.69706
-      ],
-      "s": "22:53"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-8",
@@ -83,10 +76,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-8.jpg",
       "ep": "ED6",
       "geo": [
-        35.66249,
-        139.69744
-      ],
-      "s": "22:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-9",
@@ -94,54 +86,49 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-9.jpg",
       "ep": "ED6",
       "geo": [
-        35.6603507,
-        139.7014408
-      ],
-      "s": "22:56"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-10",
-      "name": "中渋谷ガード駐輪場",
+      "name": "Street garden \"butterfly effect\"",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-10.jpg",
       "ep": "ED6",
       "geo": [
-        35.6624451,
-        139.6992892
-      ],
-      "s": "22:58"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-11",
-      "name": "中渋谷ガード駐輪場",
+      "name": "渋谷PARCO",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-11.jpg",
       "ep": "ED6",
       "geo": [
-        35.6619145,
-        139.6992841
-      ],
-      "s": "23:11"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-12",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "LUKE'S LOBSTER 渋谷ParkStreet店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-12.jpg",
       "ep": "ED6",
       "geo": [
-        35.66345,
-        139.6995
-      ],
-      "s": "23:11"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-13",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "ハンズ渋谷店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-13.jpg",
       "ep": "ED6",
       "geo": [
-        35.66219,
-        139.69747
-      ],
-      "s": "23:14"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-14",
@@ -149,21 +136,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-14.jpg",
       "ep": "ED6",
       "geo": [
-        35.6575,
-        139.70187
-      ],
-      "s": "23:14"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-15",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "BOAT RACE 多摩川(多摩川ボートレース場)",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-15.jpg",
       "ep": "EP2",
       "geo": [
-        35.6579,
-        139.4962
-      ],
-      "s": "1:49"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-16",
@@ -171,21 +156,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-16.jpg",
       "ep": "EP2",
       "geo": [
-        35.6580315,
-        139.4995855
-      ],
-      "s": "1:49"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-17",
-      "name": "桑実商店",
+      "name": "那覇空港",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-17.jpg",
-      "ep": "EP2",
+      "ep": "EP3",
       "geo": [
-        26.20683,
-        127.65101
-      ],
-      "s": "8:48"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-18",
@@ -193,10 +176,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-18.jpg",
       "ep": "EP3",
       "geo": [
-        26.6471287,
-        127.9452095
-      ],
-      "s": "6:10"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-19",
@@ -204,10 +186,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-19.jpg",
       "ep": "EP3",
       "geo": [
-        26.6916625,
-        127.8770213
-      ],
-      "s": "8:05"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-20",
@@ -215,21 +196,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-20.jpg",
       "ep": "EP3",
       "geo": [
-        26.6944331,
-        127.8781758
-      ],
-      "s": "8:12"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-21",
       "name": "JR新宿駅 東口駅前広場",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-21.jpg",
-      "ep": "EP3",
+      "ep": "EP5",
       "geo": [
-        35.69227,
-        139.7009
-      ],
-      "s": "8:50"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-22",
@@ -237,21 +216,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-22.jpg",
       "ep": "EP5",
       "geo": [
-        35.69297,
-        139.69934
-      ],
-      "s": "15:11"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-23",
       "name": "三井住友信託銀行 立川支店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-23.jpg",
-      "ep": "EP5",
+      "ep": "EP6",
       "geo": [
-        35.69905,
-        139.41357
-      ],
-      "s": "16:28"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-24",
@@ -259,21 +236,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-24.jpg",
       "ep": "EP6",
       "geo": [
-        35.69978,
-        139.41456
-      ],
-      "s": "0:15"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-25",
-      "name": "ウェンディーズ・ファーストキッチン 立川フロム中武店",
+      "name": "立川駅",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-25.jpg",
       "ep": "EP6",
       "geo": [
-        35.69857,
-        139.4139
-      ],
-      "s": "4:49"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-26",
@@ -281,21 +256,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-26.jpg",
       "ep": "EP6",
       "geo": [
-        35.69965,
-        139.41419
-      ],
-      "s": "11:51"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-27",
-      "name": "インド定食ターリー屋 立川北口店",
+      "name": "宮下第1歩道橋",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-27.jpg",
-      "ep": "EP6",
+      "ep": "EP7",
       "geo": [
-        35.66145,
-        139.70225
-      ],
-      "s": "12:28"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-28",
@@ -303,43 +276,39 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-28.jpg",
       "ep": "EP7",
       "geo": [
-        35.6575914,
-        139.696725
-      ],
-      "s": "18:28"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-29",
-      "name": "「LOUVERS OF MIRROR」ヴィト・アコンチ",
+      "name": "カフェ・ベローチェ 渋谷駅新南口店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-29.jpg",
       "ep": "EP7",
       "geo": [
-        35.65578,
-        139.70423
-      ],
-      "s": "19:16"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-30",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "B3F 渋谷ヒカリエ",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-30.jpg",
-      "ep": "EP7",
+      "ep": "EP8",
       "geo": [
-        35.65898,
-        139.70302
-      ],
-      "s": "20:22"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-31",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "原宿駅",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-31.jpg",
       "ep": "EP8",
       "geo": [
-        35.67004,
-        139.70269
-      ],
-      "s": "0:16"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-32",
@@ -347,10 +316,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-32.jpg",
       "ep": "EP8",
       "geo": [
-        35.6693,
-        139.70375
-      ],
-      "s": "5:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-33",
@@ -358,10 +326,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-33.jpg",
       "ep": "EP8",
       "geo": [
-        35.66917,
-        139.70402
-      ],
-      "s": "7:55"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-34",
@@ -369,43 +336,39 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-34.jpg",
       "ep": "EP8",
       "geo": [
-        35.6683,
-        139.70536
-      ],
-      "s": "8:35"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-35",
-      "name": "B4F 神宮前交差点方面改札",
+      "name": "明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-35.jpg",
-      "ep": "EP8",
+      "ep": "EP9",
       "geo": [
-        35.667871,
-        139.7049723
-      ],
-      "s": "15:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-36",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "渋谷駅 東京メトロ副都心線 5・6番線",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-36.jpg",
       "ep": "EP9",
       "geo": [
-        35.6585834,
-        139.7026089
-      ],
-      "s": "10:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-37",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "Mothership",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-37.jpg",
-      "ep": "EP9",
+      "ep": "EP10",
       "geo": [
-        35.66934,
-        139.70278
-      ],
-      "s": "19:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-38",
@@ -413,65 +376,59 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-38.jpg",
       "ep": "EP10",
       "geo": [
-        35.6607839,
-        139.7022416
-      ],
-      "s": "9:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-39",
-      "name": "ファミリーマート 渋谷一丁目店",
+      "name": "セカンドストリート渋谷神南店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-39.jpg",
       "ep": "EP10",
       "geo": [
-        35.6615258,
-        139.7007873
-      ],
-      "s": "10:34"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-40",
-      "name": "ファミリーマート 渋谷一丁目店",
+      "name": "渋谷東急REIホテル",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-40.jpg",
       "ep": "EP10",
       "geo": [
-        35.66025,
-        139.70219
-      ],
-      "s": "14:27"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-41",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "渋谷モディ",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-41.jpg",
-      "ep": "EP10",
+      "ep": "EP11",
       "geo": [
-        35.6612396,
-        139.7007869
-      ],
-      "s": "14:28"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-42",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "ブリッジ渋谷21",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-42.jpg",
       "ep": "EP11",
       "geo": [
-        35.65659,
-        139.699
-      ],
-      "s": "0:15"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-43",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "渋谷駅（バス）",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-43.jpg",
-      "ep": "EP11",
+      "ep": "EP12",
       "geo": [
-        35.6567805,
-        139.6994801
-      ],
-      "s": "19:07"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-44",
@@ -479,21 +436,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-44.jpg",
       "ep": "EP12",
       "geo": [
-        35.6594424,
-        139.6954747
-      ],
-      "s": "7:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-45",
-      "name": "池湖 渋谷",
+      "name": "東急百貨店本店前(バス)",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-45.jpg",
       "ep": "EP12",
       "geo": [
-        35.6601241,
-        139.6957658
-      ],
-      "s": "9:12"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-46",
@@ -501,108 +456,99 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-46.jpg",
       "ep": "EP12",
       "geo": [
-        35.66032,
-        139.69636
-      ],
-      "s": "9:23"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-47",
       "name": "渋谷駅東口（バス）",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-47.jpg",
-      "ep": "EP12",
+      "ep": "EP13",
       "geo": [
-        35.65834,
-        139.70313
-      ],
-      "s": "18:09"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-48",
-      "name": "渋谷駅東口（バス）",
+      "name": "B4F 渋谷ヒカリエ1改札付近",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-48.jpg",
       "ep": "EP13",
       "geo": [
-        35.6591,
-        139.70256
-      ],
-      "s": "0:57"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-49",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "2F アベニューゲート",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-49.jpg",
-      "ep": "EP13",
+      "ep": "EP14",
       "geo": [
-        35.6583124,
-        139.6984803
-      ],
-      "s": "9:02"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-50",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "岡本太郎「明日の神話」",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-50.jpg",
-      "ep": "EP14",
+      "ep": "EP15",
       "geo": [
-        35.6587713,
-        139.7002641
-      ],
-      "s": "7:41"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-51",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "SHIBUYAフレンズ動物病院",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-51.jpg",
-      "ep": "EP15",
+      "ep": "EP16",
       "geo": [
-        35.65673,
-        139.7047
-      ],
-      "s": "11:04"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-52",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "RELX VAPE &NEWS STAND",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-52.jpg",
       "ep": "EP16",
       "geo": [
-        35.6588,
-        139.70024
+        0,
+        0
       ]
     },
     {
       "id": "6190-53",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "スターバックスコーヒー 渋谷ストリーム店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-53.jpg",
       "ep": "EP16",
       "geo": [
-        35.65746,
-        139.7026
-      ],
-      "s": "2:36"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-54",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "ファミリーマート 渋谷道玄坂プラザ通り店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-54.jpg",
       "ep": "EP16",
       "geo": [
-        35.6577,
-        139.69965
-      ],
-      "s": "3:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-55",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "博多天神 渋谷南口店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-55.jpg",
       "ep": "EP16",
       "geo": [
-        35.65782,
-        139.6995
-      ],
-      "s": "5:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-56",
@@ -610,10 +556,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-56.jpg",
       "ep": "EP16",
       "geo": [
-        35.6557818,
-        139.6950531
-      ],
-      "s": "6:00"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-57",
@@ -621,10 +566,9 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-57.jpg",
       "ep": "EP16",
       "geo": [
-        35.65904,
-        139.69983
-      ],
-      "s": "6:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-58",
@@ -632,131 +576,119 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-58.jpg",
       "ep": "EP16",
       "geo": [
-        34.98601,
-        135.75889
-      ],
-      "s": "8:05"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-59",
-      "name": "京都駅",
+      "name": "渋谷ストリーム ホール",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-59.jpg",
       "ep": "EP16",
       "geo": [
-        35.6573109,
-        139.7025406
-      ],
-      "s": "8:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-60",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-60.jpg",
-      "ep": "EP16",
+      "ep": "EP17",
       "geo": [
-        35.65967,
-        139.69937
-      ],
-      "s": "16:47"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-61",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "渋谷スクランブル交差点",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-61.jpg",
       "ep": "EP17",
       "geo": [
-        35.65953,
-        139.70049
-      ],
-      "s": "6:36"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-62",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "ファミリーマート 渋谷１０９前店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-62.jpg",
       "ep": "EP17",
       "geo": [
-        35.65983,
-        139.69878
-      ],
-      "s": "12:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-63",
       "name": "ハチ公改札",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-63.jpg",
-      "ep": "EP17",
+      "ep": "EP18",
       "geo": [
-        35.6595513,
-        139.7002689
-      ],
-      "s": "19:56"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-64",
-      "name": "ハチ公改札",
+      "name": "道玄坂改札 B2F",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-64.jpg",
       "ep": "EP18",
       "geo": [
-        35.65949,
-        139.69959
-      ],
-      "s": "10:20"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-65",
-      "name": "ハチ公改札",
+      "name": "B4F 宮益坂東改札付近",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-65.jpg",
       "ep": "EP18",
       "geo": [
-        35.6599949,
-        139.7022886
-      ],
-      "s": "18:13"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-66",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "焼肉 もうもうくうくう 渋谷店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-66.jpg",
       "ep": "EP18",
       "geo": [
-        35.65978,
-        139.69775
-      ],
-      "s": "19:38"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-67",
       "name": "スターバックス コーヒー 渋谷文化村通り店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-67.jpg",
-      "ep": "EP18",
+      "ep": "EP19",
       "geo": [
-        35.66037,
-        139.69666
-      ],
-      "s": "21:14"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-68",
-      "name": "スターバックス コーヒー 渋谷文化村通り店",
+      "name": "B1F Bunkamura Street Exit 3a",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-68.jpg",
       "ep": "EP19",
       "geo": [
-        35.65955,
-        139.6993
-      ],
-      "s": "0:43"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-69",
-      "name": "スターバックス コーヒー 渋谷文化村通り店",
+      "name": "ユニクロ 渋谷道玄坂店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-69.jpg",
       "ep": "EP19",
       "geo": [
-        35.6592697,
-        139.6986495
-      ],
-      "s": "6:49"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-70",
@@ -764,65 +696,59 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-70.jpg",
       "ep": "EP19",
       "geo": [
-        35.6593367,
-        139.6987315
-      ],
-      "s": "8:00"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-71",
       "name": "B2F 文化村通り 3a出口",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-71.jpg",
-      "ep": "EP19",
+      "ep": "EP20",
       "geo": [
-        35.65958,
-        139.69919
-      ],
-      "s": "9:35"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-72",
-      "name": "B2F 文化村通り 3a出口",
+      "name": "渋谷駅 田園都市線 1番線",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-72.jpg",
       "ep": "EP20",
       "geo": [
-        35.6594507,
-        139.7003243
-      ],
-      "s": "18:09"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-73",
-      "name": "Jujutsu Kaisen Season 2",
+      "name": "サーティワンアイスクリーム 渋谷店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-73.jpg",
-      "ep": "EP20",
+      "ep": "EP21",
       "geo": [
-        35.65977,
-        139.69892
-      ],
-      "s": "20:24"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-74",
       "name": "B3F 田園都市線ホーム",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-74.jpg",
-      "ep": "EP21",
+      "ep": "EP22",
       "geo": [
-        35.65946,
-        139.70101
-      ],
-      "s": "3:33"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-75",
-      "name": "B3F 田園都市線ホーム",
+      "name": "ファミリーマート 銀座木挽町通り店",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-75.jpg",
-      "ep": "EP22",
+      "ep": "EP23",
       "geo": [
-        35.66875,
-        139.76761
-      ],
-      "s": "3:18"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-76",
@@ -830,21 +756,19 @@
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-76.jpg",
       "ep": "EP23",
       "geo": [
-        35.70001,
-        139.74356
-      ],
-      "s": "17:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6190-77",
-      "name": "飯田橋駅",
+      "name": "佃大橋",
       "image": "https://image.xinu.ink/pic/data/6190/images/6190-77.jpg",
       "ep": "EP23",
       "geo": [
-        35.66777,
-        139.78114
-      ],
-      "s": "18:57"
+        0,
+        0
+      ]
     }
   ]
 }

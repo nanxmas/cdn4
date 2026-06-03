@@ -6,10 +6,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-1.jpg",
       "ep": "OP1",
       "geo": [
-        35.660313,
-        139.784822
-      ],
-      "s": "1:15"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-2",
@@ -17,10 +16,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-2.jpg",
       "ep": "OP1",
       "geo": [
-        35.668504,
-        139.782589
-      ],
-      "s": "1:15"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-3",
@@ -28,10 +26,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-3.jpg",
       "ep": "OP1",
       "geo": [
-        35.664422,
-        139.781563
-      ],
-      "s": "1:20"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-4",
@@ -39,10 +36,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-4.jpg",
       "ep": "OP1",
       "geo": [
-        35.660949,
-        139.777973
-      ],
-      "s": "1:23"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-5",
@@ -50,10 +46,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-5.jpg",
       "ep": "OP1",
       "geo": [
-        35.665647,
-        139.786128
-      ],
-      "s": "1:25"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-6",
@@ -61,10 +56,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-6.jpg",
       "ep": "OP1",
       "geo": [
-        35.660849,
-        139.784302
-      ],
-      "s": "1:46"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-7",
@@ -72,10 +66,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-7.jpg",
       "ep": "EP1",
       "geo": [
-        35.675064,
-        139.781447
-      ],
-      "s": "0:42"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-8",
@@ -83,10 +76,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-8.jpg",
       "ep": "EP1",
       "geo": [
-        35.67057,
-        139.783905
-      ],
-      "s": "0:42"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-9",
@@ -94,21 +86,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-9.jpg",
       "ep": "EP1",
       "geo": [
-        35.667265,
-        139.783483
-      ],
-      "s": "1:02"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-10",
       "name": "箱根湯本駅",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-10.jpg",
-      "ep": "EP1",
+      "ep": "EP2",
       "geo": [
-        35.233728,
-        139.104656
-      ],
-      "s": "21:56"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-11",
@@ -116,21 +106,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-11.jpg",
       "ep": "EP2",
       "geo": [
-        35.232343,
-        139.104697
-      ],
-      "s": "21:44"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-12",
       "name": "佃小橋",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-12.jpg",
-      "ep": "EP2",
+      "ep": "EP3",
       "geo": [
-        35.667064,
-        139.783388
-      ],
-      "s": "21:56"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-13",
@@ -138,10 +126,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-13.jpg",
       "ep": "EP3",
       "geo": [
-        35.666799,
-        139.782719
-      ],
-      "s": "14:38"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-14",
@@ -149,10 +136,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-14.jpg",
       "ep": "EP3",
       "geo": [
-        35.677489,
-        139.709423
-      ],
-      "s": "15:01"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-15",
@@ -160,21 +146,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-15.jpg",
       "ep": "EP3",
       "geo": [
-        35.671912,
-        139.784283
-      ],
-      "s": "17:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-16",
       "name": "佃屋酒店",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-16.jpg",
-      "ep": "EP3",
+      "ep": "EP4",
       "geo": [
-        35.667623,
-        139.782575
-      ],
-      "s": "21:17"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-17",
@@ -182,10 +166,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-17.jpg",
       "ep": "EP4",
       "geo": [
-        35.667883,
-        139.782347
-      ],
-      "s": "10:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-18",
@@ -193,10 +176,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-18.jpg",
       "ep": "EP4",
       "geo": [
-        35.668339,
-        139.782459
-      ],
-      "s": "10:37"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-19",
@@ -204,10 +186,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-19.jpg",
       "ep": "EP4",
       "geo": [
-        35.667667,
-        139.782007
-      ],
-      "s": "10:44"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-20",
@@ -215,10 +196,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-20.jpg",
       "ep": "EP4",
       "geo": [
-        35.666726,
-        139.781676
-      ],
-      "s": "10:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-21",
@@ -226,21 +206,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-21.jpg",
       "ep": "EP4",
       "geo": [
-        35.763309,
-        139.629737
-      ],
-      "s": "11:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-22",
       "name": "石川島記念病院",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-22.jpg",
-      "ep": "EP4",
+      "ep": "EP5",
       "geo": [
-        35.668026,
-        139.785281
-      ],
-      "s": "14:45"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-23",
@@ -248,21 +226,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-23.jpg",
       "ep": "EP5",
       "geo": [
-        35.715536,
-        139.794518
-      ],
-      "s": "14:18"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-24",
       "name": "中央大橋",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-24.jpg",
-      "ep": "EP5",
+      "ep": "EP7",
       "geo": [
-        35.672566,
-        139.7837
-      ],
-      "s": "14:43"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-25",
@@ -270,32 +246,29 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-25.jpg",
       "ep": "EP7",
       "geo": [
-        35.663627,
-        139.783704
-      ],
-      "s": "12:23"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-26",
       "name": "千駄ヶ谷厨房",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-26.jpg",
-      "ep": "EP7",
+      "ep": "EP8",
       "geo": [
-        35.678638,
-        139.710151
-      ],
-      "s": "13:18"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-27",
       "name": "関西将棋会館",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-27.jpg",
-      "ep": "EP8",
+      "ep": "EP9",
       "geo": [
-        34.698894,
-        135.487258
-      ],
-      "s": "21:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-28",
@@ -303,10 +276,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-28.jpg",
       "ep": "EP9",
       "geo": [
-        34.698571,
-        135.487088
-      ],
-      "s": "7:09"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-29",
@@ -314,10 +286,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-29.jpg",
       "ep": "EP9",
       "geo": [
-        34.698945,
-        135.48698
-      ],
-      "s": "7:25"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-30",
@@ -325,10 +296,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-30.jpg",
       "ep": "EP9",
       "geo": [
-        34.698424,
-        135.487213
-      ],
-      "s": "7:30"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-31",
@@ -336,10 +306,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-31.jpg",
       "ep": "EP9",
       "geo": [
-        34.98644,
-        135.759827
-      ],
-      "s": "17:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-32",
@@ -347,10 +316,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-32.jpg",
       "ep": "EP9",
       "geo": [
-        35.003941,
-        135.767191
-      ],
-      "s": "18:20"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-33",
@@ -358,10 +326,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-33.jpg",
       "ep": "EP9",
       "geo": [
-        35.005763,
-        135.767167
-      ],
-      "s": "18:31"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-34",
@@ -369,10 +336,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-34.jpg",
       "ep": "EP9",
       "geo": [
-        35.003872,
-        135.769852
-      ],
-      "s": "18:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-35",
@@ -380,10 +346,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-35.jpg",
       "ep": "EP9",
       "geo": [
-        35.00387,
-        135.771513
-      ],
-      "s": "20:10"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-36",
@@ -391,32 +356,29 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-36.jpg",
       "ep": "EP9",
       "geo": [
-        35.005578,
-        135.772004
-      ],
-      "s": "20:20"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-37",
       "name": "於咲稲荷神社、浪除稲荷神社",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-37.jpg",
-      "ep": "EP9",
+      "ep": "EP10",
       "geo": [
-        35.66675,
-        139.783198
-      ],
-      "s": "21:36"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-38",
       "name": "美食腸食ブリオン",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-38.jpg",
-      "ep": "EP10",
+      "ep": "EP12",
       "geo": [
-        35.668146,
-        139.782361
-      ],
-      "s": "18:27"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-39",
@@ -424,21 +386,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-39.jpg",
       "ep": "EP12",
       "geo": [
-        35.666937,
-        139.782422
-      ],
-      "s": "9:50"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-40",
       "name": "上野駅",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-40.jpg",
-      "ep": "EP12",
+      "ep": "EP14",
       "geo": [
-        35.714005,
-        139.7779
-      ],
-      "s": "9:58"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-41",
@@ -446,10 +406,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-41.jpg",
       "ep": "EP14",
       "geo": [
-        39.701748,
-        141.136948
-      ],
-      "s": "11:22"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-42",
@@ -457,21 +416,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-42.jpg",
       "ep": "EP14",
       "geo": [
-        39.676033,
-        141.021445
-      ],
-      "s": "12:07"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-43",
       "name": "盛岡駅",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-43.jpg",
-      "ep": "EP14",
+      "ep": "EP15",
       "geo": [
-        39.701018,
-        141.137311
-      ],
-      "s": "12:37"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-44",
@@ -479,10 +436,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-44.jpg",
       "ep": "EP15",
       "geo": [
-        38.259935,
-        140.881898
-      ],
-      "s": "10:25"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-45",
@@ -490,10 +446,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-45.jpg",
       "ep": "EP15",
       "geo": [
-        38.259673,
-        140.88174
-      ],
-      "s": "20:04"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-46",
@@ -501,10 +456,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-46.jpg",
       "ep": "EP15",
       "geo": [
-        38.258298,
-        140.881028
-      ],
-      "s": "20:28"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-47",
@@ -512,10 +466,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-47.jpg",
       "ep": "EP15",
       "geo": [
-        38.257029,
-        140.881791
-      ],
-      "s": "21:23"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-48",
@@ -523,21 +476,19 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-48.jpg",
       "ep": "EP15",
       "geo": [
-        38.257681,
-        140.881403
-      ],
-      "s": "22:11"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-49",
       "name": "東横INN仙台駅西口中央",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-49.jpg",
-      "ep": "EP15",
+      "ep": "EP16",
       "geo": [
-        38.255998,
-        140.88205
-      ],
-      "s": "24:23"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-50",
@@ -545,43 +496,39 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-50.jpg",
       "ep": "EP16",
       "geo": [
-        35.67896,
-        139.710716
-      ],
-      "s": "10:52"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-51",
       "name": "天成園",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-51.jpg",
-      "ep": "EP16",
+      "ep": "EP17",
       "geo": [
-        35.229149,
-        139.094931
-      ],
-      "s": "17:44"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-52",
       "name": "東京体育館",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-52.jpg",
-      "ep": "EP17",
+      "ep": "EP21",
       "geo": [
-        35.679437,
-        139.710924
-      ],
-      "s": "2:01"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-53",
       "name": "もんじゃ太郎",
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-53.jpg",
-      "ep": "EP21",
+      "ep": "EP22",
       "geo": [
-        35.66422,
-        139.782443
-      ],
-      "s": "22:54"
+        0,
+        0
+      ]
     },
     {
       "id": "6184-54",
@@ -589,10 +536,9 @@
       "image": "https://image.xinu.ink/pic/data/6184/images/6184-54.jpg",
       "ep": "EP22",
       "geo": [
-        35.667969,
-        139.782388
-      ],
-      "s": "10:12"
+        0,
+        0
+      ]
     }
   ]
 }

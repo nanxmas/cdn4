@@ -2,14 +2,13 @@
   "points": [
     {
       "id": "6187-1",
-      "name": "Oshi no Ko Season 3",
+      "name": "田道広場公園",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-1.jpg",
       "ep": "EP1",
       "geo": [
-        35.63607,
-        139.70863
-      ],
-      "s": "4:43"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-2",
@@ -17,10 +16,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-2.jpg",
       "ep": "EP1",
       "geo": [
-        35.65935,
-        139.70071
-      ],
-      "s": "4:43"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-3",
@@ -28,21 +26,19 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-3.jpg",
       "ep": "EP1",
       "geo": [
-        35.64012,
-        139.71401
-      ],
-      "s": "5:21"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-4",
-      "name": "三田丘の上公園",
+      "name": "(株)BS-TBS",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-4.jpg",
       "ep": "EP1",
       "geo": [
-        35.671457,
-        139.735029
-      ],
-      "s": "11:29"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-5",
@@ -50,32 +46,29 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-5.jpg",
       "ep": "EP1",
       "geo": [
-        35.67096,
-        139.73473
-      ],
-      "s": "19:21"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-6",
-      "name": "(株)BS-TBS",
+      "name": "市ヶ谷フィッシュセンター",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-6.jpg",
       "ep": "EP1",
       "geo": [
-        35.69212,
-        139.73579
-      ],
-      "s": "19:39"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-7",
-      "name": "Oshi no Ko Season 3",
+      "name": "東京ビッグサイト 南展示棟",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-7.jpg",
-      "ep": "EP1",
+      "ep": "EP2",
       "geo": [
-        35.62702,
-        139.79492
-      ],
-      "s": "22:08"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-8",
@@ -83,18 +76,18 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-8.jpg",
       "ep": "EP2",
       "geo": [
-        35.67094,
-        139.73429
+        0,
+        0
       ]
     },
     {
       "id": "6187-9",
       "name": "東京ビッグサイト屋上展示場",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-9.jpg",
-      "ep": "EP2",
+      "ep": "EP3",
       "geo": [
-        35.62889,
-        139.79391
+        0,
+        0
       ]
     },
     {
@@ -103,32 +96,29 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-10.jpg",
       "ep": "EP3",
       "geo": [
-        35.62907,
-        139.79439
-      ],
-      "s": "3:51"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-11",
-      "name": "東京ビッグサイト屋上展示場",
+      "name": "東京ビッグサイト",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-11.jpg",
       "ep": "EP3",
       "geo": [
-        35.63028,
-        139.79312
-      ],
-      "s": "5:10"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-12",
-      "name": "東京ビッグサイト屋上展示場",
+      "name": "一ツ木公園",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-12.jpg",
       "ep": "EP3",
       "geo": [
-        35.67069,
-        139.73355
-      ],
-      "s": "5:49"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-13",
@@ -136,21 +126,19 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-13.jpg",
       "ep": "EP3",
       "geo": [
-        35.69073,
-        139.70556
-      ],
-      "s": "11:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-14",
-      "name": "喫茶室ルノアール ニュー新宿3丁目店",
+      "name": "㈱集英社 神保町3丁目ビル",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-14.jpg",
       "ep": "EP3",
       "geo": [
-        35.69524,
-        139.75554
-      ],
-      "s": "13:47"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-15",
@@ -158,10 +146,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-15.jpg",
       "ep": "EP3",
       "geo": [
-        35.67166,
-        139.71043
-      ],
-      "s": "16:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-16",
@@ -169,10 +156,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-16.jpg",
       "ep": "EP3",
       "geo": [
-        35.6717,
-        139.71151
-      ],
-      "s": "23:20"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-17",
@@ -180,32 +166,29 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-17.jpg",
       "ep": "EP3",
       "geo": [
-        35.67177,
-        139.71167
-      ],
-      "s": "23:25"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-18",
-      "name": "原宿はらっぱファーム",
+      "name": "恵比寿南二公園",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-18.jpg",
-      "ep": "EP3",
+      "ep": "EP4",
       "geo": [
-        35.643605920449296,
-        139.70861680541424
-      ],
-      "s": "23:53"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-19",
       "name": "LENSLiST 渋谷店",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-19.jpg",
-      "ep": "EP4",
+      "ep": "EP6",
       "geo": [
-        35.66002,
-        139.69847
-      ],
-      "s": "17:29"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-20",
@@ -213,10 +196,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-20.jpg",
       "ep": "EP6",
       "geo": [
-        35.66013,
-        139.69846
-      ],
-      "s": "16:16"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-21",
@@ -224,10 +206,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-21.jpg",
       "ep": "EP6",
       "geo": [
-        35.66031,
-        139.69855
-      ],
-      "s": "16:22"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-22",
@@ -235,32 +216,29 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-22.jpg",
       "ep": "EP6",
       "geo": [
-        35.63599,
-        139.70862
-      ],
-      "s": "17:07"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-23",
       "name": "ユニカビジョン",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-23.jpg",
-      "ep": "EP6",
+      "ep": "EP7",
       "geo": [
-        35.69389,
-        139.7004
-      ],
-      "s": "20:24"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-24",
       "name": "弘南堂書店",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-24.jpg",
-      "ep": "EP7",
+      "ep": "EP8",
       "geo": [
-        35.63446,
-        139.71186
-      ],
-      "s": "12:36"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-25",
@@ -268,10 +246,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-25.jpg",
       "ep": "EP8",
       "geo": [
-        35.63372,
-        139.71501
-      ],
-      "s": "4:13"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-26",
@@ -279,10 +256,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-26.jpg",
       "ep": "EP8",
       "geo": [
-        35.68705,
-        139.77375
-      ],
-      "s": "4:40"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-27",
@@ -290,21 +266,19 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-27.jpg",
       "ep": "EP8",
       "geo": [
-        35.68583,
-        139.77426
-      ],
-      "s": "20:47"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-28",
       "name": "クレッセント目黒青葉台",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-28.jpg",
-      "ep": "EP8",
+      "ep": "EP9",
       "geo": [
-        35.64727,
-        139.69615
-      ],
-      "s": "21:04"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-29",
@@ -312,32 +286,29 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-29.jpg",
       "ep": "EP9",
       "geo": [
-        35.64552,
-        139.69897
-      ],
-      "s": "5:50"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-30",
       "name": "練馬区立 桜台地区区民館",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-30.jpg",
-      "ep": "EP9",
+      "ep": "EP10",
       "geo": [
-        35.74571,
-        139.66305
-      ],
-      "s": "17:46"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-31",
       "name": "ファミリーマート 渋谷公園通り店",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-31.jpg",
-      "ep": "EP10",
+      "ep": "EP11",
       "geo": [
-        35.66297,
-        139.69934
-      ],
-      "s": "9:19"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-32",
@@ -345,10 +316,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-32.jpg",
       "ep": "EP11",
       "geo": [
-        35.6604,
-        139.69857
-      ],
-      "s": "31:10"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-33",
@@ -356,10 +326,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-33.jpg",
       "ep": "EP11",
       "geo": [
-        35.69,
-        139.69812
-      ],
-      "s": "35:59"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-34",
@@ -367,21 +336,19 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-34.jpg",
       "ep": "EP11",
       "geo": [
-        35.69385,
-        139.70099
-      ],
-      "s": "36:34"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-35",
-      "name": "歌舞伎町一番街アーチ",
+      "name": "Nissan Crossing",
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-35.jpg",
       "ep": "EP11",
       "geo": [
-        35.67091,
-        139.7652
-      ],
-      "s": "36:53"
+        0,
+        0
+      ]
     },
     {
       "id": "6187-36",
@@ -389,10 +356,9 @@
       "image": "https://image.xinu.ink/pic/data/6187/images/6187-36.jpg",
       "ep": "EP11",
       "geo": [
-        35.70505,
-        139.75242
-      ],
-      "s": "37:42"
+        0,
+        0
+      ]
     }
   ]
 }

@@ -2,14 +2,13 @@
   "points": [
     {
       "id": "6189-1",
-      "name": "Asagaya Station",
+      "name": "阿佐ヶ谷駅",
       "image": "https://image.xinu.ink/pic/data/6189/images/6189-1.jpg",
       "ep": "EP10",
       "geo": [
-        35.70473,
-        139.63656
-      ],
-      "s": "21:34"
+        0,
+        0
+      ]
     },
     {
       "id": "6189-2",
@@ -17,10 +16,9 @@
       "image": "https://image.xinu.ink/pic/data/6189/images/6189-2.jpg",
       "ep": "EP10",
       "geo": [
-        35.70523,
-        139.63599
-      ],
-      "s": "21:34"
+        0,
+        0
+      ]
     },
     {
       "id": "6189-3",
@@ -28,10 +26,9 @@
       "image": "https://image.xinu.ink/pic/data/6189/images/6189-3.jpg",
       "ep": "EP10",
       "geo": [
-        35.71004,
-        139.63553
-      ],
-      "s": "21:44"
+        0,
+        0
+      ]
     }
   ]
 }
