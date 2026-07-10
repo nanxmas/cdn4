@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6915-1",
+      "name": "Yarō Ramen",
+      "image": "https://image.xinu.ink/pic/data/6915/images/6915-1.jpg",
+      "ep": "",
+      "geo": [
+        35.6601932,
+        139.6992033
+      ]
+    },
+    {
+      "id": "6915-2",
+      "name": "Shibuya Crossing",
+      "image": "https://image.xinu.ink/pic/data/6915/images/6915-2.jpg",
+      "ep": "",
+      "geo": [
+        35.6593251,
+        139.7007574
+      ]
+    },
+    {
+      "id": "6915-3",
+      "name": "Yarō Ramen",
+      "image": "https://image.xinu.ink/pic/data/6915/images/6915-3.jpg",
+      "ep": "",
+      "geo": [
+        35.6602523,
+        139.6990253
+      ]
+    },
+    {
+      "id": "6915-4",
+      "name": "Jingumae Police Box",
+      "image": "https://image.xinu.ink/pic/data/6915/images/6915-4.jpg",
+      "ep": "",
+      "geo": [
+        35.6678319,
+        139.7069299
+      ]
+    },
+    {
+      "id": "6915-5",
+      "name": "Kabukicho Main Gate",
+      "image": "https://image.xinu.ink/pic/data/6915/images/6915-5.jpg",
+      "ep": "",
+      "geo": [
+        35.6937652,
+        139.7010011
+      ]
+    }
+  ]
+}
